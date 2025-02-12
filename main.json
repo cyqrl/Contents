@@ -15,15 +15,15 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Advanced Trigonometry Guide",
-        "uri": "https://drive.google.com/file/d/1eK5l6M9n0O7p8Q3rT2sY1U4iW5o6P7dN/view"
+        "id": "1",
+        "name": "كتاب رياضيات فصل أول",
+        "uri": "https://drive.google.com/file/d/1Tu-jNOefWjhWLXcrmVv9j9Uesy3hcIDz/view"
       },
       {
-        "id": "102",
-        "name": "Differential Equations Handbook",
-        "uri": "https://drive.google.com/file/d/1fR4t5Y6u7I8O9p0Q1w2E3rT4y5U6i7oP/view"
-      }
+        "id": "2",
+        "name": "كتاب رياضيات فصل ثاني",
+        "uri": "https://drive.google.com/file/d/1iU7tWRpSEzSl3KMUzgt8CaHbcUZ4FhS8/view"
+      },
     ]
   },
   "english": {
@@ -41,15 +41,10 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Grammar Guide",
-        "uri": "https://example.com/grammar_guide.pdf"
+        "id": "1",
+        "name": "كتاب اللغة الإنجليزية",
+        "uri": "https://drive.google.com/file/d/1fzfvbstDYI-utMb065soFxe0JPNuqw9Z/view"
       },
-      {
-        "id": "102",
-        "name": "Vocabulary List",
-        "uri": "https://example.com/vocabulary_list.pdf"
-      }
     ]
   },
   "arabic": {
@@ -59,17 +54,12 @@
         "name": "امتحان الفصل الاول",
         "uri": "https://example.com/arabic_exam1.pdf"
       },
-      {
-        "id": "2",
-        "name": "امتحان الفصل الثاني",
-        "uri": "https://example.com/arabic_exam2.pdf"
-      }
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "دليل القواعد",
-        "uri": "https://example.com/arabic_grammar_guide.pdf"
+        "id": "1",
+        "name": "كتاب اللغة العربية",
+        "uri": "https://drive.google.com/file/d/1ngdCLuztT84IvoRxar91z2hYrKLmMEP3/view"
       },
       {
         "id": "102",
@@ -93,15 +83,15 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "دليل الفقه",
-        "uri": "https://example.com/fiqh_guide.pdf"
+        "id": "1",
+        "name": "كتاب التربية الإسلامية الفصل الأول",
+        "uri": "https://drive.google.com/file/d/1xVGrv-oiksFql9a89-dBl_Zy7wawCbFM/view"
       },
       {
-        "id": "102",
-        "name": "دليل الحديث",
-        "uri": "https://example.com/hadith_guide.pdf"
-      }
+        "id": "2",
+        "name": "كتاب التربية الإسلامية الفصل الثاني",
+        "uri": "https://drive.google.com/file/d/1YRWdKjIZdfDSueOsfijGd-al0FyR_43P/view"
+      },
     ]
   },
   "IT": {
@@ -119,9 +109,9 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Networking Guide",
-        "uri": "https://example.com/networking_guide.pdf"
+        "id": "1",
+        "name": "كتاب التكنولوجيا",
+        "uri": "https://drive.google.com/file/d/10uLKbrdUR6BKTQ61BEWrB3CNDFS_P1XZ/view"
       },
       {
         "id": "102",
@@ -145,18 +135,44 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Mechanics Guide",
-        "uri": "https://example.com/mechanics_guide.pdf"
+        "id": "1",
+        "name": "كتاب الفيزياء الفصل الأول",
+        "uri": "https://drive.google.com/file/d/1ttIbj9JRQBDlSE7sqg8A0jDpsVHsbe9b/view"
       },
       {
-        "id": "102",
-        "name": "Electromagnetism Handbook",
-        "uri": "https://example.com/electromagnetism_handbook.pdf"
-      }
+        "id": "2",
+        "name": "كتاب الفيزياء الفصل الثاني",
+        "uri": "https://drive.google.com/file/d/1f8e34c7dUou604Ky59AU_hyttQlJSt_T/view"
+      },
     ]
   }
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
  "12": {
   "math": {
     "exams": [
@@ -173,9 +189,9 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Advanced Trigonometry Guide",
-        "uri": "https://drive.google.com/file/d/1eK5l6M9n0O7p8Q3rT2sY1U4iW5o6P7dN/view"
+        "id": "1",
+        "name": "كتاب الرياضيات",
+        "uri": "https://drive.google.com/file/d/1-bEFFwvOerv9P33peodX0pHukp81XsoW/view"
       },
       {
         "id": "102",
@@ -199,9 +215,9 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Grammar Guide",
-        "uri": "https://example.com/grammar_guide.pdf"
+        "id": "1",
+        "name": "كتاب اللغة الإنجليزية",
+        "uri": "https://drive.google.com/file/d/1aChMVMzWh-yqG1fu8ojZYw0yB69XDlpP/view"
       },
       {
         "id": "102",
@@ -225,9 +241,9 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "دليل القواعد",
-        "uri": "https://example.com/arabic_grammar_guide.pdf"
+        "id": "1",
+        "name": "كتاب اللغة العربية",
+        "uri": "https://drive.google.com/file/d/1tOQejrJKLgYlW0DeWnLoUz3-b7p1ZGFO/view"
       },
       {
         "id": "102",
@@ -251,9 +267,9 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "دليل الفقه",
-        "uri": "https://example.com/fiqh_guide.pdf"
+        "id": "1",
+        "name": "كتاب التربية الإسلامية",
+        "uri": "https://drive.google.com/file/d/1ugFHzwPzW8hS5NNga3v0ytYj_rf8PU48/view"
       },
       {
         "id": "102",
@@ -277,9 +293,9 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Networking Guide",
-        "uri": "https://example.com/networking_guide.pdf"
+        "id": "1",
+        "name": "كتاب التكنولوجيا",
+        "uri": "https://drive.google.com/file/d/1pzhJtGMphNIEj8DZsuOCJ4b7kXr7XrXN/view"
       },
       {
         "id": "102",
@@ -303,9 +319,9 @@
     ],
     "attachments": [
       {
-        "id": "101",
-        "name": "Mechanics Guide",
-        "uri": "https://example.com/mechanics_guide.pdf"
+        "id": "1",
+        "name": "كتاب الفيزياء",
+        "uri": "https://drive.google.com/file/d/1OAaPLFUNU1xs5dL55D89fcjQAnEN5qrV/view"
       },
       {
         "id": "102",
