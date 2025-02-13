@@ -145,6 +145,102 @@
                     "uri": "https://drive.google.com/file/d/1f8e34c7dUou604Ky59AU_hyttQlJSt_T/view"
                 }
             ]
+        },
+        "graphic": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "websites": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "refrigeration": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "sanitary": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "blacksmithing": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "energy": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "use_electricity": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "cars_electricity": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "smart_homes": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "mechanics": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "carpentry": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "drawing": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
         }
     },
 
@@ -156,8 +252,7 @@
 
 
 
-
-  
+    
     "12": {
         "math": {
             "exams": [
@@ -189,13 +284,23 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "First Semester Exam",
-                    "uri": "https://example.com/english_exam1.pdf"
+                    "name": "امتحان تجريبي قباطية 2022",
+                    "uri": "https://drive.google.com/file/d/1qO66aN8GkHCngrBo4Yp_-_5GwKdn70tb/view"
                 },
                 {
                     "id": "2",
-                    "name": "Second Semester Exam",
-                    "uri": "https://example.com/english_exam2.pdf"
+                    "name": "امتحان تجريبي غرب غزة 2022",
+                    "uri": "https://drive.google.com/file/d/18lwIzB1nQDWuFSKJf8bi-xxBr-YjJEWP/view"
+                },
+                {
+                    "id": "3",
+                    "name": "امتحان تجريبي رام الله",
+                    "uri": "https://drive.google.com/file/d/16JfpvxlxwCa5C7jrhrcPu8ZrGwYep27D/view"
+                },
+                {
+                    "id": "4",
+                    "name": "امتحان تجريبي سلفيت 2022",
+                    "uri": "https://drive.google.com/file/d/15ltykEBUmW5iz56cCzYI8-57skOMHMnp/view"
                 }
             ],
             "attachments": [
@@ -205,9 +310,19 @@
                     "uri": "https://drive.google.com/file/d/1aChMVMzWh-yqG1fu8ojZYw0yB69XDlpP/view"
                 },
                 {
-                    "id": "102",
-                    "name": "Vocabulary List",
-                    "uri": "https://example.com/vocabulary_list.pdf"
+                    "id": "2",
+                    "name": "تلخيص للوحدات 1_2_3_4_7_8",
+                    "uri": "https://drive.google.com/file/d/1igLs7tYoCJ6wz5I6KakCKxAM2r23juK3/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كيفية كتابة التعبير",
+                    "uri": "https://drive.google.com/file/d/1bEhPkxhaTvJT81Uer6GcGQUrqjld3cws/view"
+                },
+                {
+                    "id": "4",
+                    "name": "قطع خارجية وزارية مع الحلول",
+                    "uri": "https://drive.google.com/file/d/1pTBpfZeIyddFjzxxWyww8u8ZBi5Lqj89/view"
                 }
             ]
         },
@@ -215,13 +330,23 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "امتحان الفصل الاول",
-                    "uri": "https://example.com/arabic_exam1.pdf"
+                    "name": "امتحان وزاري مع الاجابات 2023",
+                    "uri": "https://drive.google.com/file/d/1X3AStBpbKB1dOZBCILeTZvVcyh3q33cy/view"
                 },
                 {
                     "id": "2",
-                    "name": "امتحان الفصل الثاني",
-                    "uri": "https://example.com/arabic_exam2.pdf"
+                    "name": "امتحان وزاري دورة ثانية 2021",
+                    "uri": "https://drive.google.com/file/d/1oDs6ZZxTQNkajQm6349cvxERD5pmb9Cq/view"
+                },
+                {
+                    "id": "3",
+                    "name": "امتحان وزاري 2024",
+                    "uri": "https://drive.google.com/file/d/1cB-xKGxHJhNX9uCI4PY9Mcx94HNnvAG_/view"
+                },
+                {
+                    "id": "4",
+                    "name": "قريبا",
+                    "uri": ""
                 }
             ],
             "attachments": [
@@ -231,9 +356,19 @@
                     "uri": "https://drive.google.com/file/d/1tOQejrJKLgYlW0DeWnLoUz3-b7p1ZGFO/view"
                 },
                 {
-                    "id": "102",
-                    "name": "قائمة المفردات",
-                    "uri": "https://example.com/arabic_vocabulary_list.pdf"
+                    "id": "2",
+                    "name": "شرح وحل اسئلة الكتاب",
+                    "uri": "https://drive.google.com/file/d/1V82zmR65Vl_637HXVAqMBlTac9S_BV3d/view"
+                },
+                {
+                    "id": "3",
+                    "name": "قريبا",
+                    "uri": ""
+                },
+                {
+                    "id": "4",
+                    "name": "قريبا",
+                    "uri": ""
                 }
             ]
         },
@@ -241,13 +376,23 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "امتحان الفصل الاول",
-                    "uri": "https://example.com/religion_exam1.pdf"
+                    "name": "مناطقي جنين 2022",
+                    "uri": "https://drive.google.com/file/d/1CZ3ZkzP_McbWbQ3yKlp7-9nqqQNHyMCc/view"
                 },
                 {
                     "id": "2",
-                    "name": "امتحان الفصل الثاني",
-                    "uri": "https://example.com/religion_exam2.pdf"
+                    "name": "مناطقي يطا 2022",
+                    "uri": "https://drive.google.com/file/d/1zizuV6BNXapJA73sn9gYUQ9nlvfvyZFj/view"
+                },
+                {
+                    "id": "3",
+                    "name": "امتحان الإدارة العامة 2022",
+                    "uri": "https://drive.google.com/file/d/1x2LelrAq6lsCGt0IQEK_RZzJNa7O2it4/view"
+                },
+                {
+                    "id": "4",
+                    "name": "اختيار من متعدد 1000 سؤال",
+                    "uri": "https://drive.google.com/file/d/1kgzdyia5Gtw59UtoDku-d4dOvdNV_27h/view"
                 }
             ],
             "attachments": [
@@ -257,9 +402,19 @@
                     "uri": "https://drive.google.com/file/d/1ugFHzwPzW8hS5NNga3v0ytYj_rf8PU48/view"
                 },
                 {
-                    "id": "102",
-                    "name": "دليل الحديث",
-                    "uri": "https://example.com/hadith_guide.pdf"
+                    "id": "2",
+                    "name": "كراسة الخرائط الذهنية 2023",
+                    "uri": "https://drive.google.com/file/d/1r8WDTPkCthfB31I2pYKAoCwr-V-AKLBt/view"
+                },
+                {
+                    "id": "3",
+                    "name": "الكراسة الذهبية في التربية الإسلامية",
+                    "uri": "https://drive.google.com/file/d/1J1WfWVC-7D-ZPW1x2D3mSvq2SuJKCnhH/view"
+                },
+                {
+                    "id": "4",
+                    "name": "شرح التلاوة والتجويد",
+                    "uri": "https://drive.google.com/file/d/1_0rCteOhQmvB2ZPm5_N48C_LZVqDLGqy/view"
                 }
             ]
         },
@@ -267,13 +422,23 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "First Semester Exam",
-                    "uri": "https://example.com/it_exam1.pdf"
+                    "name": "أسئلة نظرية وأدائية في كل المادة",
+                    "uri": "https://drive.google.com/file/d/14NvrwDpv7b44ux_7-NgJ685r3Hn3Sg1F/view"
                 },
                 {
                     "id": "2",
-                    "name": "Second Semester Exam",
-                    "uri": "https://example.com/it_exam2.pdf"
+                    "name": "امتحان محلول في الوحدة الثانية",
+                    "uri": "https://drive.google.com/file/d/1UAm9Q1JeFGruiBsFKBymvef0BKUu4PO2/view"
+                },
+                {
+                    "id": "3",
+                    "name": "تجميعة امتحانات 2022",
+                    "uri": "https://drive.google.com/file/d/1KmLxo_AdzZ5XPyHEHs1Ib1Q2eXVRWRRL/view"
+                },
+                {
+                    "id": "4",
+                    "name": "امتحان تجريبي قلقيلية محلول 2022",
+                    "uri": "https://drive.google.com/file/d/1KmLxo_AdzZ5XPyHEHs1Ib1Q2eXVRWRRL/view"
                 }
             ],
             "attachments": [
@@ -283,9 +448,19 @@
                     "uri": "https://drive.google.com/file/d/1pzhJtGMphNIEj8DZsuOCJ4b7kXr7XrXN/view"
                 },
                 {
-                    "id": "102",
-                    "name": "Programming Handbook",
-                    "uri": "https://example.com/programming_handbook.pdf"
+                    "id": "2",
+                    "name": "تلخيص المادة كاملة",
+                    "uri": "https://drive.google.com/file/d/13tjusoCIg9942B90pzZCcxfL1NZMGkjJ/view"
+                },
+                {
+                    "id": "3",
+                    "name": "ملزمة التكنولوجيا المميزة",
+                    "uri": "https://drive.google.com/file/d/17BoYXsvbhyhbKGWCQ0zvGdGvIs1t2Rwz/view"
+                },
+                {
+                    "id": "4",
+                    "name": "شرح أيقونات الأكسس",
+                    "uri": "https://drive.google.com/file/d/1Ujl3dOsLfsoS6W5_wKyBB8dBA7T8o3M6/view"
                 }
             ]
         },
@@ -293,13 +468,28 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "First الو Exam",
-                    "uri": "https://example.com/physics_exam1.pdf"
+                    "name": "شرح مع اسئلة محلولة في الوحدة الأولى",
+                    "uri": "https://drive.google.com/file/d/1tyzeYT1UxE4CcUnMSdyWJkZT93Lv0iRo/view"
                 },
                 {
                     "id": "2",
-                    "name": "Second Semester Exam",
-                    "uri": "https://example.com/physics_exam2.pdf"
+                    "name": "شرح مع اسئلة محلولة في الوحدة الثانية",
+                    "uri": "https://drive.google.com/file/d/1nFopjESW_K1YJVsgc1noDC080I9KkWb9/view"
+                },
+                {
+                    "id": "3",
+                    "name": "امتحان تشخيصي في التصادمات",
+                    "uri": "https://drive.google.com/file/d/12RqvXyRGcJ-qy9hVNHIsWYPsXeRDId3k/view"
+                },
+                {
+                    "id": "4",
+                    "name": "إجابات امتحان التصادمات السابق",
+                    "uri": "https://drive.google.com/file/d/1Y0ywjipXJJxfzE6V6fwsVarcEpJgYQN9/view"
+                },
+                {
+                    "id": "5",
+                    "name": "امتحانات تجريبي 2022 مع الحلول",
+                    "uri": "https://drive.google.com/file/d/1XM-mInZpxFPzjMM683ukfdp_szp34hdF/view"
                 }
             ],
             "attachments": [
@@ -309,10 +499,108 @@
                     "uri": "https://drive.google.com/file/d/1OAaPLFUNU1xs5dL55D89fcjQAnEN5qrV/view"
                 },
                 {
-                    "id": "102",
-                    "name": "Electromagnetism Handbook",
-                    "uri": "https://example.com/electromagnetism_handbook.pdf"
+                    "id": "2",
+                    "name": "حلول الكتاب",
+                    "uri": "https://drive.google.com/file/d/1olMW5b-xzzuJrGEOSKHshIZ9qYBfa8eJ/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كراسة المحترف لشرح المنهاج",
+                    "uri": "https://drive.google.com/file/d/196Bnpd99HtosE8n8mKCH9kI8V5TPMcmB/view"
+                },
+                {
+                    "id": "4",
+                    "name": "ملخص شامل",
+                    "uri": "https://drive.google.com/file/d/18zYEQ1G3zp1HTBb6-uIG15JAxY3vCqyD/view"
                 }
+            ]
+        },
+        "graphic": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "websites": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "refrigeration": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "sanitary": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "blacksmithing": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "energy": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "use_electricity": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "cars_electricity": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "smart_homes": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "mechanics": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "carpentry": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
             ]
         }
     }
