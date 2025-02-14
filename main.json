@@ -517,18 +517,79 @@
         },
         "graphic": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة تجريبي 2022",
+                    "uri": "https://drive.google.com/file/d/1nQ4gluD0zDF0ZfWy1z9xNi0FIEJBZHX-/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة وزاري 2022",
+                    "uri": "https://drive.google.com/file/d/1GQhrAcxmDazoznW4mIRMzybPp6cxDjSQ/view"
+                },
+                {
+                    "id": "3",
+                    "name": "رسم صناعي وزاري 2022",
+                    "uri": "https://drive.google.com/file/d/1cDIvdsZERaSlV4jhU0nxMDROXBlvblUG/view"
+                },
+                {
+                    "id": "4",
+                    "name": "رسم صناعي تجريبي 2022",
+                    "uri": "https://drive.google.com/file/d/1xOYUp6_gSeBJvl8kWylrrFUlAHpeIKyA/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب التصميم الجرافيكي",
+                    "uri": "https://drive.google.com/file/d/1d1LCVQM5H0uHVbuZbnUBj4-cVfvWACJA/view"
+                }
             ]
         },
         "websites": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة وزاري 2022",
+                    "uri": "https://drive.google.com/file/d/1bKcYUK5_AdPIBbItpc_SsxpkiXF64jq5/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة وزاري مع الإجابات 2021",
+                    "uri": "https://drive.google.com/file/d/1U5o62S8ubk-Gy304Q7dFhJzbrtUTpWGy/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة وزاري 2020",
+                    "uri": "https://drive.google.com/file/d/1yKEFksoX4R98UnByY-FplXcMVNMxKKD5/view"
+                },
+                {
+                    "id": "4",
+                    "name": "رسم صناعي وزاري 2021",
+                    "uri": "https://drive.google.com/file/d/16NktWTVeRWa2h_ZSDk3Zn0tvBQhNhVZ8/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي وزاري 2022",
+                    "uri": "https://drive.google.com/file/d/1PxskBrctmOKfQK42laR3G10Nhpik-YTo/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي وزاري 2023",
+                    "uri": "https://drive.google.com/file/d/19waOmBDAZY72oaTe8mDfdAXMDDP1bP-a/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب تخصص تصميم صفحات الإنترنت",
+                    "uri": "https://drive.google.com/file/d/1qBr6SCNIHeSfffXv0MnGhmAz3ezjgT91/view"
+                },
+                {
+                    "id": "2",
+                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+                    "uri": "https://drive.google.com/file/d/1hd6cOqLqD_bqUx3vGTyUiy9E_nh2atqo/view"
+                }
             ]
         },
         "refrigeration": {
