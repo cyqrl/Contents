@@ -274,13 +274,13 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "امتحان يومي اول للفصل الثاني",
-                    "uri": "https://drive.google.com/file/d/1dY4nR7t8HkL2jF9G3hJ5D6sQ2Z3x4VbM/view"
+                    "name": "قريبا",
+                    "uri": ""
                 },
                 {
                     "id": "2",
-                    "name": "fkdwamfiawmfawf",
-                    "uri": "https://www.wepal.net/library/upload/12-2019/content/5e012f5710d5a.pdf"
+                    "name": "قريبا",
+                    "uri": ""
                 }
             ],
             "attachments": [
@@ -290,9 +290,9 @@
                     "uri": "https://drive.google.com/file/d/1-bEFFwvOerv9P33peodX0pHukp81XsoW/view"
                 },
                 {
-                    "id": "102",
-                    "name": "Differential Equations Handbook",
-                    "uri": "https://drive.google.com/file/d/1fR4t5Y6u7I8O9p0Q1w2E3rT4y5U6i7oP/view"
+                    "id": "2",
+                    "name": "قريبا",
+                    "uri": ""
                 }
             ]
         },
@@ -565,6 +565,11 @@
                     "id": "1",
                     "name": "كتاب التصميم الجرافيكي",
                     "uri": "https://drive.google.com/file/d/1d1LCVQM5H0uHVbuZbnUBj4-cVfvWACJA/view"
+                },
+                {
+                    "id": "2",
+                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+                    "uri": "https://drive.google.com/file/d/1hd6cOqLqD_bqUx3vGTyUiy9E_nh2atqo/view"
                 }
             ]
         },
