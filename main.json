@@ -900,18 +900,114 @@
         },
         "mechanics": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة وزاري 2019",
+                    "uri": "https://drive.google.com/file/d/1Gg9-o4QIVZLNMGMM2vE-GO1ICkLokZe3/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة وزاري 2020",
+                    "uri": "https://drive.google.com/file/d/1EnxM_92XeuS44-zUG3iLxmETBri7WqCZ/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة وزاري 2021",
+                    "uri": "https://drive.google.com/file/d/1q-O0cR_zRGOQW5r9MECEmBLDuS-wOv5u/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة تجريبي",
+                    "uri": "https://drive.google.com/file/d/1Vcv1NiH1oxuBvpX-786i4vrN4l4kGg8B/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي وزاري 2019 الدورة الأولى",
+                    "uri": "https://drive.google.com/file/d/1NojbsyKEiRLSAzvAvxlYC0yQ8aKxbzwS/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي وزاري 2019 الدورة الثانية",
+                    "uri": "https://drive.google.com/file/d/149xdgIvYWHcpFgxWTSF87UT_YqFY3d9Z/view"
+                },
+                {
+                    "id": "7",
+                    "name": "رسم صناعي تجريبي طولكرم 2020",
+                    "uri": "https://drive.google.com/file/d/1ujXS0oN6U_cAM2yCaW-a4JPx39BiSU9q/view"
+                },
+                {
+                    "id": "8",
+                    "name": "رسم صناعي وزاري 2021 مع الإجابات",
+                    "uri": "https://drive.google.com/file/d/13HLROTpUlcTI0dv91ppRhvx9KrD47RAm/view"
+                },
+                {
+                    "id": "9",
+                    "name": "رسم صناعي وزاري 2022",
+                    "uri": "https://drive.google.com/file/d/16kuIruLCCz-9IwzDaC8wTaqhkXb-x4ke/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب ميكانيك السيارات",
+                    "uri": "https://drive.google.com/file/d/1PsE0GcmQ7qwiQZKIOmjqfVdNGnn8RdiW/view"
+                },
+                {
+                    "id": "2",
+                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+                    "uri": "https://drive.google.com/file/d/1bfdyzJJxO7PEB6z86riXoBvi2X7ldrSG/view"
+                }
             ]
         },
         "carpentry": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة وزاري 2019",
+                    "uri": "https://drive.google.com/file/d/1eym9g-tOXzz77FLyK48gro2LJrGgZLy-/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة وزاري 2021",
+                    "uri": "https://drive.google.com/file/d/1KbLIjWfJvi9VKef-kq5eE-sY0lQDnqXx/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة تجريبي طواكرم",
+                    "uri": "https://drive.google.com/file/d/16OV6y2ughQWvRGdrJ_6IlMIM_uRRoD8i/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة تجريبي رام الله والبيرة",
+                    "uri": "https://drive.google.com/file/d/1wEaBHHcnyPxYZQAg7q3brekRiPHY9ene/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي وزاري 2019",
+                    "uri": "https://drive.google.com/file/d/1YriXPJkseRVe3w_x9nSA_6ywmamBK1Qg/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي وزاري 2020",
+                    "uri": "https://drive.google.com/file/d/1NRNg_xn9IGLCnPbljwfLMKf5s62CYy8q/view"
+                },
+                {
+                    "id": "7",
+                    "name": "رسم صناعي وزاري 2021 مع الإجابات",
+                    "uri": "https://drive.google.com/file/d/12rB-wS26hiCua6gdAoqGdezC_5siLi9h/view"
+                },
+                {
+                    "id": "8",
+                    "name": "رسم صناعي وزاري 2022",
+                    "uri": "https://drive.google.com/file/d/14XaWVdh6kS0_sla9sQEbDel7M4orMGxW/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                }
             ]
         }
     }
