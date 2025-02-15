@@ -515,6 +515,12 @@
                 }
             ]
         },
+
+
+
+
+
+        
         "graphic": {
             "exams": [
                 {
@@ -602,18 +608,79 @@
         },
         "sanitary": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة وزاري 2020",
+                    "uri": "https://drive.google.com/file/d/1rw_GvHVjkgHLL0ELTmW8wHTzjyRPOhgO/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة تجريبي مع الإجابة رام الله",
+                    "uri": "https://drive.google.com/file/d/1zP9GjT1EZwCxKpc062sUeHJOgRJXLEmd/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة تجريبي طولكرم",
+                    "uri": "https://drive.google.com/file/d/1s8MROJzy1ba5RJzC0hamkOAJ55ylqWDT/view"
+                },
+                {
+                    "id": "4",
+                    "name": "رسم صناعي وزاري 2019",
+                    "uri": "https://drive.google.com/file/d/1I4qi7-qRmFvIT0iOHQcRgcYmezbr8MEB/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي تجريبي رام الله",
+                    "uri": "https://drive.google.com/file/d/1jSBcvGv8CqXQWzTpaSHW6TEcHuD_Am3N/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي تجريبي طولكرم",
+                    "uri": "https://drive.google.com/file/d/1vodQ-G0lsqWJTik4W_INCnWqR2eFbY8Y/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+                    "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
+                }
             ]
         },
         "blacksmithing": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة تجريبي رام الله",
+                    "uri": "https://drive.google.com/file/d/19crNA4kOGk_FjOQydFXQ2SxYdg9ytSSE/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة تجريبي طولكرم",
+                    "uri": "https://drive.google.com/file/d/1CvEJrHOjT5bI7LesVM0FcxGZQj9z-6ow/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة وزاري 2024",
+                    "uri": "https://drive.google.com/file/d/1JK2YPm4LztK6CtJOJFF_Hh8ps17MRrhU/view"
+                },
+                {
+                    "id": "4",
+                    "name": "رسم صناعي وزاري 2021",
+                    "uri": "https://drive.google.com/file/d/1VTweKPlWHre4zlIs9nHNm3eL5oIyIr0I/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي تجريبي طولكرم",
+                    "uri": "https://drive.google.com/file/d/1nxGHn7izr9r4uM6FnPtRw_gdHx88DTh_/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+                    "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
+                }
             ]
         },
         "energy": {
@@ -621,31 +688,214 @@
                 
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب الطاقة المتجددة",
+                    "uri": "https://drive.google.com/file/d/1c5gkT1iFcq0xqV8E5rNqDuJTo0bhkrCB/view"
+                },
+                {
+                    "id": "2",
+                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+                    "uri": "https://drive.google.com/file/d/1XYzZt_Ptgb3v6qB0wpblJilvwSPJKuBO/view"
+                }
             ]
         },
         "use_electricity": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة وزاري 2020",
+                    "uri": "https://drive.google.com/file/d/1IUjLSkI-NoVHll6eMgC-1QlNuwC1SJGs/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة وزاري 2020 دورة ثانية",
+                    "uri": "https://drive.google.com/file/d/1PBmx3qRODSIqmGEEEPFw-MWOisN6A3n0/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة تجريبي سلفيت",
+                    "uri": "https://drive.google.com/file/d/1QaguhDewlZbUo4FB0PQELiBM8P_sVw69/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة شهرين مع الاجابات",
+                    "uri": "https://drive.google.com/file/d/18PSFi8oPOqO8JG7cIEcfjV8bf61KTSkw/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي وزاري 2022 دورة ثانية",
+                    "uri": "https://drive.google.com/file/d/1TxtYMXFu15qhk3YkvWwEJl04IuMMQUZm/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي وزاري 2023",
+                    "uri": "https://drive.google.com/file/d/1UTC3OAz8VPNlApTIBJEnyMOVcY5EJxW4/view"
+                },
+                {
+                    "id": "7",
+                    "name": "رسم صناعي شهرين",
+                    "uri": "https://drive.google.com/file/d/1nI6rEixpodL4D67bCZlNzyETswPzT6Ys/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب كهرباء استعمال",
+                    "uri": "https://drive.google.com/file/d/1xmAwW3q1Nb5McpW1NhB2WcERM8oVy7lj/view"
+                },
+                {
+                    "id": "2",
+                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+                    "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
+                },
+                {
+                    "id": "3",
+                    "name": "حلول كتاب كهرباء استعمال",
+                    "uri": "https://drive.google.com/file/d/11boCV25pNObATI0IYPP2vDewxdTAXU51/view"
+                },
+                {
+                    "id": "4",
+                    "name": "اسئلة على الوحدة الاولى في علم الصناعة",
+                    "uri": "https://drive.google.com/file/d/1nN8w2Wh0hsBsZo4ZXf4-jx3TU6VtpTmB/view"
+                },
+                {
+                    "id": "5",
+                    "name": "اسئلة على الوحدة الثانية في علم الصناعة",
+                    "uri": "https://drive.google.com/file/d/1_n9bo2ZNLHVcOkOrwvQlD2OvVpO3OWum/view"
+                }
             ]
         },
         "cars_electricity": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة تجريبي قلقيلية",
+                    "uri": "https://drive.google.com/file/d/1g0DqjUYrA6vzWCE6-Z3dzJ7bRrYOHMTu/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة وزاري 2022",
+                    "uri": "https://drive.google.com/file/d/1-32DYLCh8ljgvOc6b7Mi_ab4JGgyPqMK/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة وزاري مع الاجابات 2020",
+                    "uri": "https://drive.google.com/file/d/1ncVeaYKxh0aNcBNLCSg697sZda-_RiSY/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة وزاري 2019",
+                    "uri": "https://drive.google.com/file/d/1D1-S58snwdo904uFm11riBBX2EM4vRLr/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي وزاري 2019",
+                    "uri": "https://drive.google.com/file/d/1ia_Ua_UihHLSze_EYczzWAoqekGm2dUh/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي تجريبي قلقيلية",
+                    "uri": "https://drive.google.com/file/d/1mbhGHmt8smMpjyZisV6hxXUbb7i5lNJL/view"
+                },
+                {
+                    "id": "7",
+                    "name": "رسم صناعي وزاري 2021",
+                    "uri": "https://drive.google.com/file/d/1SgH3R4j7YYiRvbjQuntSUCp_A9rdmWFk/view"
+                },
+                {
+                    "id": "8",
+                    "name": "رسم صناعي وزاري 2020",
+                    "uri": "https://drive.google.com/file/d/11oZqZlalvWQmXK4Yu05_LB-WICcVTe22/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب كهرباء سيارات",
+                    "uri": "https://drive.google.com/file/d/1xmAwW3q1Nb5McpW1NhB2WcERM8oVy7lj/view"
+                },
+                {
+                    "id": "2",
+                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+                    "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
+                },
+                {
+                    "id": "3",
+                    "name": "حلول كتاب كهرباء سيارات",
+                    "uri": "https://drive.google.com/file/d/11boCV25pNObATI0IYPP2vDewxdTAXU51/view"
+                }
             ]
         },
         "smart_homes": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة وزاري 2019",
+                    "uri": "https://drive.google.com/file/d/1rux3Bvt9pRLZHC_dS-nSOV2fugZY6XDz/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة وزاري 2020",
+                    "uri": "https://drive.google.com/file/d/1dikDArckyDYEHXvcYZPA8qSAVHYS4tXk/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة وزاري 2021 الدورة الأولى",
+                    "uri": "https://drive.google.com/file/d/1r0FsHkS8PleW7oIw12unEqhBZ21KHZgV/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة وزاري 2021 الدورة الثانية",
+                    "uri": "https://drive.google.com/file/d/1bf2uhgjtoIpxIyrkGrIgSvNl5Vq4SUwp/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي تجريبي جنوب الخليل",
+                    "uri": "https://drive.google.com/file/d/1G1m601zs0iCxgUf4AkIoEFcMqJHf8PsZ/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي وزاري 2021 الدورة الأولى",
+                    "uri": "https://drive.google.com/file/d/1gYskZtMfBdwXExnZ0IL75QKENt7n9kBs/view"
+                },
+                {
+                    "id": "7",
+                    "name": "رسم صناعي وزاري 2021 الدورة الثانية",
+                    "uri": "https://drive.google.com/file/d/1CbRaNpdDNzZblDVjefSwvYG3nS55ZAS-/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب تكنولوجيا المباني الذكية",
+                    "uri": "https://drive.google.com/file/d/11Ck0xPYXigmkpgiVrYUEUgkfOJ40Pkm5/view"
+                },
+                {
+                    "id": "2",
+                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+                    "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
+                },
+                {
+                    "id": "3",
+                    "name": "حلول كتاب تكنولوجيا المباني الذكية",
+                    "uri": "https://drive.google.com/file/d/1tyGqM2kz8VNLdq9KZoiqov9H5BX6-UDS/view"
+                },
+                {
+                    "id": "4",
+                    "name": "كتيب نظام الحريث تليفير",
+                    "uri": "https://drive.google.com/file/d/1fITURsH37bkW2bmZQdSnHEGs1qI5K-MK/view"
+                },
+                {
+                    "id": "5",
+                    "name": "تجربة وسائط النقل",
+                    "uri": "https://drive.google.com/file/d/1R_DDFEsh8a3Ab9kowp_ejZWMm3GEZal3/view"
+                },
+                {
+                    "id": "6",
+                    "name": "إجابات أسئلة الوحدة الأولى",
+                    "uri": "https://drive.google.com/file/d/1O07RqYIhiZlAXhXdDA03qUjkTFYb7kkJ/view"
+                }
             ]
         },
         "mechanics": {
