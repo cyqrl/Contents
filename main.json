@@ -234,6 +234,22 @@
                 
             ]
         },
+        "apps": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "computer": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
         "drawing": {
             "exams": [
                 
@@ -1010,5 +1026,21 @@
                 }
             ]
         }
+        "apps": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "computer": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
     }
 }
