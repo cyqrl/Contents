@@ -1307,18 +1307,68 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                    "name": "علم صناعة الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/11n-p2jM2eF5LEzpKxUbPJr7Ac5gnu-kh/view"
                 },
                 {
                     "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                    "name": "علم صناعة الدورة الثانية 2022",
+                    "uri": "https://drive.google.com/file/d/1JHrnDeYA7yYXzeWWjITXYLFkxELYZaHX/view"
                 },
                 {
                     "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                    "name": "علم صناعة الدورة الثالثة 2022",
+                    "uri": "https://drive.google.com/file/d/1hCl_RQZb9bFeFMB82-5y-3X80xo1NWrf/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة الدورة الأولى 2023",
+                    "uri": "https://drive.google.com/file/d/1waFgs-eRNmxkIKZ1ysZpA-jDXttmELSt/view"
+                },
+                {
+                    "id": "5",
+                    "name": "علم صناعة الدورة الثانية 2023",
+                    "uri": "https://drive.google.com/file/d/1AnvLSPHsv0mfyhXwu7_QclTrczgEeG8y/view"
+                },
+                {
+                    "id": "6",
+                    "name": "علم صناعة الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/16t4L7BQqnPeopTDrQLQMtT20g1rL9nzE/view"
+                },
+                {
+                    "id": "7",
+                    "name": "علم صناعة الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/1MilXej4dBXAjL4vDEOPFfuAzAZcflGmB/view"
+                },
+                {
+                    "id": "8",
+                    "name": "رسم صناعي الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/11p6bLAFumB__Gm2VFAFZi5LtG3i7kRn3/view"
+                },
+                {
+                    "id": "9",
+                    "name": "رسم صناعي الدورة الثانية 2022",
+                    "uri": "https://drive.google.com/file/d/1K6XN7KrpMTwu4HV06qDe05FXVSauOwUn/view"
+                },
+                {
+                    "id": "10",
+                    "name": "رسم صناعي الدورة الأولى 2023",
+                    "uri": "https://drive.google.com/file/d/1tYqPhIuS6WP5kNiTolNEnGZuBE0FuC4z/view"
+                },
+                {
+                    "id": "11",
+                    "name": "رسم صناعي الدورة الثانية 2023",
+                    "uri": "https://drive.google.com/file/d/1ID_Bpw5ywrlFJh3bi_lucbD8P0PiSsI_/view"
+                },
+                {
+                    "id": "12",
+                    "name": "رسم صناعي الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/126tytdfRiLdxfJiJgjcfHf2zZAfTn8zE/view"
+                },
+                {
+                    "id": "13",
+                    "name": "رسم صناعي الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/19g6VOkf3bTak_SAZmKg1kCtrNDAfX4gK/view"
                 }
             ],
             "attachments": [
