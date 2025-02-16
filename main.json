@@ -250,6 +250,14 @@
                 
             ]
         },
+        "electronics": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
         "drawing": {
             "exams": [
                 
@@ -1029,6 +1037,14 @@
                     "name": "كتاب النجارة",
                     "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
                 }
+            ]
+        },
+        "electronics": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
             ]
         },
         "apps": {
