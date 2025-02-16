@@ -1166,18 +1166,18 @@
             "attachments": [
                 {
                     "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                    "name": "كتاب الإلكترونيات الصناعية",
+                    "uri": "https://drive.google.com/file/d/1iajCaetLY4HqHNYRuhbq2MrfkYNOoW5t/view"
                 },
                 {
                     "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                    "name": "حلول كتاب الإلكترونيات الصناعية",
+                    "uri": "https://drive.google.com/file/d/1JR_kUc7qT90S28W8htK1VxLw9luEa1Rz/view"
                 },
                 {
                     "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+                    "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
                 }
             ]
         },
@@ -1185,35 +1185,50 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                    "name": "علم صناعة الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/1lCfeba8AFuTODCX6rmkxJSvqZQrv9w9h/view"
                 },
                 {
                     "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                    "name": "علم صناعة الدورة الأولى 2023",
+                    "uri": "https://drive.google.com/file/d/1dGHWHbiiIy5L8djbTrLf_mNnkcOzCUB-/view"
                 },
                 {
                     "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                    "name": "علم صناعة الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/10tdQoLpoyKNoUHAsf7jZZ-RmLG_uztrH/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/1LTR6jtMZmf83kv80BT-EoVlPWSoCQATW/view"
+                },
+                {
+                    "id": "5",
+                    "name": "رسم صناعي الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/1Y0McGB6TdsypoLtYHiGHt0qIi6tALRkI/view"
+                },
+                {
+                    "id": "6",
+                    "name": "رسم صناعي الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/1RBHIY-NKXgHEQeCa4NFZlQPt1am6fkfT/view"
+                },
+                {
+                    "id": "7",
+                    "name": "رسم صناعي الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/1FdNfnC9Ws4J1BfcGQIFskvqJC9_KwQSW/view"
                 }
             ],
             "attachments": [
                 {
                     "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                    "name": "كتاب تطبيقات الهواتف الذكية",
+                    "uri": "https://drive.google.com/file/d/1jX85SkRi_xxE6WuBFKJpMBRB7ydTY-Gn/view"
                 },
                 {
                     "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
-                },
-                {
-                    "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+                    "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
                 }
             ]
         },
