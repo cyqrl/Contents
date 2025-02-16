@@ -1236,35 +1236,70 @@
             "exams": [
                 {
                     "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                    "name": "علم صناعة الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/1YLki1XmR4DlyeursbAtv111SZZ_WyhZz/view"
                 },
                 {
                     "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                    "name": "علم صناعة الدورة الثانية 2022",
+                    "uri": "https://drive.google.com/file/d/1jkIuzNM3kdizXxb78Dd4v4IkhWf13VRR/view"
                 },
                 {
                     "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                    "name": "علم صناعة الدورة الأولى 2023",
+                    "uri": "https://drive.google.com/file/d/1D2W--CDcPpSVo97-s1P2Ut9-fK8FQy_2/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة الدورة الثانية 2023",
+                    "uri": "https://drive.google.com/file/d/1xEzlivYT9JJp4F8KXJ7CGU1GyWlBySWv/view"
+                },
+                {
+                    "id": "5",
+                    "name": "علم صناعة الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/15WzyJ8NTFZbYx5dkXcULzc87ttnurGKY/view"
+                },
+                {
+                    "id": "6",
+                    "name": "علم صناعة الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/1vn_rNHaoJftFB_CP5H629ki59J-7Mzes/view"
+                },
+                {
+                    "id": "7",
+                    "name": "رسم صناعي الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/1b7Q41i9kZ5T3xKAOkOno8XiPWLCLjk9C/view"
+                },
+                {
+                    "id": "8",
+                    "name": "رسم صناعي الدورة الثانية 2022",
+                    "uri": "https://drive.google.com/file/d/1ZIDdyqOMP0KO89KBSM69YjM760yZY4FT/view"
+                },
+                {
+                    "id": "9",
+                    "name": "رسم صناعي الدورة الأولى 2023",
+                    "uri": "https://drive.google.com/file/d/1wQAvKTQht9nLwjHJ4S94iO2UOtiB8RWV/view"
+                },
+                {
+                    "id": "10",
+                    "name": "رسم صناعي الدورة الثانية 2023",
+                    "uri": "https://drive.google.com/file/d/19qX3FFpIBs82a8416SlfABaamxJ9hzAb/view"
+                },
+                {
+                    "id": "11",
+                    "name": "رسم صناعي الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/1fve2fBuleSJIYRTxt8iRrkytKfjeyzfO/view"
+                },
+                {
+                    "id": "12",
+                    "name": "رسم صناعي الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/1N7YSfY11kcIiReqOpRjQnaTDfIwOlpC1/view"
                 }
             ],
             "attachments": [
                 {
                     "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
-                },
-                {
-                    "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
-                },
-                {
-                    "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+                    "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
                 }
             ]
         },
