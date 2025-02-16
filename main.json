@@ -627,14 +627,6 @@
                 }
             ]
         },
-        "refrigeration": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
         "sanitary": {
             "exams": [
                 {
@@ -1048,6 +1040,14 @@
             ]
         },
         "apps": {
+            "exams": [
+                
+            ],
+            "attachments": [
+                
+            ]
+        },
+        "refrigeration": {
             "exams": [
                 
             ],
