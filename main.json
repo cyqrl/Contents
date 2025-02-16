@@ -711,7 +711,51 @@
         },
         "energy": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "الدورة الأولى-علم الصناعة -2022",
+                    "uri": "https://drive.google.com/file/d/1VNEiDKpU6jJkxWemfeb7Z_60o-twFFhF/view"
+                },
+                {
+                    "id": "2",
+                    "name": "الدورة الثانية-علم الصناعة -2022",
+                    "uri": "https://drive.google.com/file/d/1V9Mpf6fsQmAidKjjPLY4EYD4S_nnq82f/view"
+                },
+                {
+                    "id": "3",
+                    "name": "الدورة الأولى-علم الصناعة -2023",
+                    "uri": "https://drive.google.com/file/d/1x6swe8v3E19Ha-oKa3UE-BXdzOv7Riak/view"
+                },
+                {
+                    "id": "4",
+                    "name": "الدورة الثانية-علم الصناعة -2023",
+                    "uri": "https://drive.google.com/file/d/1-SiUGtinWNqWQLdE0KMrZ8CuKNfGRfTJ/view"
+                },
+                {
+                    "id": "5",
+                    "name": "الدورة الاولى2022-رسم",
+                    "uri": "https://drive.google.com/file/d/1Y00hoCJQIucMKbRmtVFlrJB91bCDRhFX/view"
+                },
+                {
+                    "id": "6",
+                    "name": "الدورة الثانية2022-رسم",
+                    "uri": "https://drive.google.com/file/d/1lejzA9zz7RoEJfDepr1HkyRrnXfsAr4C/view"
+                },
+                {
+                    "id": "7",
+                    "name": "الدورة الاولى2023-رسم",
+                    "uri": "https://drive.google.com/file/d/12XYofw7ch21HV0DZ-3j2yy5Cl31ikXod/view"
+                },
+                {
+                    "id": "8",
+                    "name": "الدورة الثانية 2023-رسم",
+                    "uri": "https://drive.google.com/file/d/1x3v7glDGCoroo6czTMH4-jCVmT1yLQ-Q/view"
+                },
+                {
+                    "id": "9",
+                    "name": "الدورة الاولى2024-رسم",
+                    "uri": "https://drive.google.com/file/d/1hswcrzwzBUEaGYAiDrhq5xZoUNDuh2x6/view"
+                }
             ],
             "attachments": [
                 {
@@ -982,6 +1026,11 @@
                     "id": "2",
                     "name": "كتاب الرسم الصناعي عائلة الميكانيك",
                     "uri": "https://drive.google.com/file/d/1bfdyzJJxO7PEB6z86riXoBvi2X7ldrSG/view"
+                },
+                {
+                    "id": "3",
+                    "name": "حلول كتاب ميكانيك السيارات",
+                    "uri": "https://drive.google.com/file/d/1XWNMqW7ngPle7EvJCgBmjMqE56zp3bXq/view"
                 }
             ]
         },
@@ -1033,39 +1082,211 @@
                     "id": "1",
                     "name": "كتاب النجارة",
                     "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
                 }
             ]
         },
         "electronics": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "علم صناعة الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/1juz0DrtT73BjJWCtjukBJIU_kVq1IfF5/view"
+                },
+                {
+                    "id": "2",
+                    "name": "علم صناعة الدورة الثانية 2022",
+                    "uri": "https://drive.google.com/file/d/1QDtJAhFsj9MovE7sfS5DEaJmFm_VvFJs/view"
+                },
+                {
+                    "id": "3",
+                    "name": "علم صناعة الدورة الثالثة 2022",
+                    "uri": "https://drive.google.com/file/d/1DUH7zWsCaUwCmcW5kIKaawpLSvMFoj0G/view"
+                },
+                {
+                    "id": "4",
+                    "name": "علم صناعة الدورة الأولى 2023",
+                    "uri": "https://drive.google.com/file/d/1stZMBOHS3eeXcInXyuW5N10vdTTRN6-_/view"
+                },
+                {
+                    "id": "5",
+                    "name": "علم صناعة الدورة الثانية 2023",
+                    "uri": "https://drive.google.com/file/d/1HHG_O1kR1IOzSrAciJzC2i4C_SFd2bAa/view"
+                },
+                {
+                    "id": "6",
+                    "name": "علم صناعة الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/12LWaHwTIsVoZyl2Pggerptfyvj6yVSC-/view"
+                },
+                {
+                    "id": "7",
+                    "name": "علم صناعة الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/1kxb6YqzAKFZXwOhsZR1SaWHZ-KMpYiDv/view"
+                },
+                {
+                    "id": "8",
+                    "name": "رسم صناعي الدورة الأولى 2022",
+                    "uri": "https://drive.google.com/file/d/1_xQmyMXQcr9ef84XCaMsRAtbxn-3r4f6/view"
+                },
+                {
+                    "id": "9",
+                    "name": "رسم صناعي الدورة الثانية 2022",
+                    "uri": "https://drive.google.com/file/d/1u6QU6ObobyRFR5pgcbYfuCTPyznm98BO/view"
+                },
+                {
+                    "id": "10",
+                    "name": "رسم صناعي الدورة الأولى 2023",
+                    "uri": "https://drive.google.com/file/d/1wEAeQ7DqVTGClCIKlT8RHs_UHR7_Mxsh/view"
+                },
+                {
+                    "id": "11",
+                    "name": "رسم صناعي الدورة الثانية 2023",
+                    "uri": "https://drive.google.com/file/d/10hc2jrbSRy38dgAtotMS4lWFKTQSRH-s/view"
+                },
+                {
+                    "id": "12",
+                    "name": "رسم صناعي الدورة الأولى 2024",
+                    "uri": "https://drive.google.com/file/d/1kxb6YqzAKFZXwOhsZR1SaWHZ-KMpYiDv/view"
+                },
+                {
+                    "id": "13",
+                    "name": "رسم صناعي الدورة الثانية 2024",
+                    "uri": "https://drive.google.com/file/d/1kxb6YqzAKFZXwOhsZR1SaWHZ-KMpYiDv/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                }
             ]
         },
         "apps": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                }
             ]
         },
         "refrigeration": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                }
             ]
         },
         "computer": {
             "exams": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                }
             ],
             "attachments": [
-                
+                {
+                    "id": "1",
+                    "name": "كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                },
+                {
+                    "id": "2",
+                    "name": "حلول كتاب النجارة",
+                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+                },
+                {
+                    "id": "3",
+                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                }
             ]
         }
     }
