@@ -1324,18 +1324,13 @@
             "attachments": [
                 {
                     "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+                    "name": "كتاب صيانة أجهزة الحاسوب",
+                    "uri": "https://drive.google.com/file/d/11_Yzhr1KjyH5iTkJnJznQ35fKdcpYoXJ/view"
                 },
                 {
                     "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
-                },
-                {
-                    "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+                    "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
                 }
             ]
         }
