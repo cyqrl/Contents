@@ -1,1388 +1,1082 @@
 {
-    "11": {
-        "math": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "امتحان يومي اول للفصل الثاني",
-                    "uri": "https://drive.google.com/file/d/1dY4nR7t8HkL2jF9G3hJ5D6sQ2Z3x4VbM/view"
-                },
-                {
-                    "id": "2",
-                    "name": "fkdwamfiawmfawf",
-                    "uri": "https://www.wepal.net/library/upload/12-2019/content/5e012f5710d5a.pdf"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب رياضيات فصل أول",
-                    "uri": "https://drive.google.com/file/d/1Tu-jNOefWjhWLXcrmVv9j9Uesy3hcIDz/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب رياضيات فصل ثاني",
-                    "uri": "https://drive.google.com/file/d/1iU7tWRpSEzSl3KMUzgt8CaHbcUZ4FhS8/view"
-                }
-            ]
+  "11": {
+    "math": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب رياضيات فصل أول",
+          "uri": "https://drive.google.com/file/d/1Tu-jNOefWjhWLXcrmVv9j9Uesy3hcIDz/view"
         },
-        "english": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "First Semester Exam",
-                    "uri": "https://example.com/english_exam1.pdf"
-                },
-                {
-                    "id": "2",
-                    "name": "Second Semester Exam",
-                    "uri": "https://example.com/english_exam2.pdf"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب اللغة الإنجليزية",
-                    "uri": "https://drive.google.com/file/d/1fzfvbstDYI-utMb065soFxe0JPNuqw9Z/view"
-                }
-            ]
-        },
-        "arabic": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "امتحان الفصل الاول",
-                    "uri": "https://example.com/arabic_exam1.pdf"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب اللغة العربية",
-                    "uri": "https://drive.google.com/file/d/1ngdCLuztT84IvoRxar91z2hYrKLmMEP3/view"
-                },
-                {
-                    "id": "102",
-                    "name": "قائمة المفردات",
-                    "uri": "https://example.com/arabic_vocabulary_list.pdf"
-                }
-            ]
-        },
-        "religion": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "امتحان الفصل الاول",
-                    "uri": "https://example.com/religion_exam1.pdf"
-                },
-                {
-                    "id": "2",
-                    "name": "امتحان الفصل الثاني",
-                    "uri": "https://example.com/religion_exam2.pdf"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب التربية الإسلامية الفصل الأول",
-                    "uri": "https://drive.google.com/file/d/1xVGrv-oiksFql9a89-dBl_Zy7wawCbFM/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب التربية الإسلامية الفصل الثاني",
-                    "uri": "https://drive.google.com/file/d/1YRWdKjIZdfDSueOsfijGd-al0FyR_43P/view"
-                }
-            ]
-        },
-        "IT": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "First Semester Exam",
-                    "uri": "https://example.com/it_exam1.pdf"
-                },
-                {
-                    "id": "2",
-                    "name": "Second Semester Exam",
-                    "uri": "https://example.com/it_exam2.pdf"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب التكنولوجيا",
-                    "uri": "https://drive.google.com/file/d/10uLKbrdUR6BKTQ61BEWrB3CNDFS_P1XZ/view"
-                },
-                {
-                    "id": "102",
-                    "name": "Programming Handbook",
-                    "uri": "https://example.com/programming_handbook.pdf"
-                }
-            ]
-        },
-        "physics": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "First الو Exam",
-                    "uri": "https://example.com/physics_exam1.pdf"
-                },
-                {
-                    "id": "2",
-                    "name": "Second Semester Exam",
-                    "uri": "https://example.com/physics_exam2.pdf"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الفيزياء الفصل الأول",
-                    "uri": "https://drive.google.com/file/d/1ttIbj9JRQBDlSE7sqg8A0jDpsVHsbe9b/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الفيزياء الفصل الثاني",
-                    "uri": "https://drive.google.com/file/d/1f8e34c7dUou604Ky59AU_hyttQlJSt_T/view"
-                }
-            ]
-        },
-        "graphic": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "websites": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "refrigeration": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "sanitary": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "blacksmithing": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "energy": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "use_electricity": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "cars_electricity": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "smart_homes": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "mechanics": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "carpentry": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "apps": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "computer": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "electronics": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
-        },
-        "drawing": {
-            "exams": [
-                
-            ],
-            "attachments": [
-                
-            ]
+        {
+          "name": "كتاب رياضيات فصل ثاني",
+          "uri": "https://drive.google.com/file/d/1iU7tWRpSEzSl3KMUzgt8CaHbcUZ4FhS8/view"
         }
+      ]
+    },
+    "english": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب اللغة الإنجليزية",
+          "uri": "https://drive.google.com/file/d/1fzfvbstDYI-utMb065soFxe0JPNuqw9Z/view"
+        }
+      ]
+    },
+    "arabic": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب اللغة العربية",
+          "uri": "https://drive.google.com/file/d/1ngdCLuztT84IvoRxar91z2hYrKLmMEP3/view"
+        }
+      ]
+    },
+    "religion": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب التربية الإسلامية الفصل الأول",
+          "uri": "https://drive.google.com/file/d/1xVGrv-oiksFql9a89-dBl_Zy7wawCbFM/view"
+        },
+        {
+          "name": "كتاب التربية الإسلامية الفصل الثاني",
+          "uri": "https://drive.google.com/file/d/1YRWdKjIZdfDSueOsfijGd-al0FyR_43P/view"
+        }
+      ]
+    },
+    "IT": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب التكنولوجيا",
+          "uri": "https://drive.google.com/file/d/10uLKbrdUR6BKTQ61BEWrB3CNDFS_P1XZ/view"
+        }
+      ]
+    },
+    "physics": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب الفيزياء الفصل الأول",
+          "uri": "https://drive.google.com/file/d/1ttIbj9JRQBDlSE7sqg8A0jDpsVHsbe9b/view"
+        },
+        {
+          "name": "كتاب الفيزياء الفصل الثاني",
+          "uri": "https://drive.google.com/file/d/1f8e34c7dUou604Ky59AU_hyttQlJSt_T/view"
+        }
+      ]
+    },
+    "graphic": {
+      "exams": [],
+      "attachments": []
+    },
+    "websites": {
+      "exams": [],
+      "attachments": []
+    },
+    "refrigeration": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب تكييف وتبريد الفصل الاول",
+          "uri": "https://drive.google.com/file/d/1mAzOCJQECyvPM64CJom3fKEgQsn3uqWo/view?usp=drive_link"
+        },
+        {
+          "name": "كتاب تكييف وتبريد الفصل الثاني",
+          "uri": "https://drive.google.com/file/d/1dEGDFKu0eeynyYjD7fxfjv6oBqCXX5yo/view?usp=drive_link"
+        }
+      ]
+    },
+    "sanitary": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب التمديدات الصحية الفصل الاول",
+          "uri": "https://drive.google.com/file/d/1EI6hci6CRXPL8c6fJOIwUxvu1RbBwp30/view?usp=drive_link"
+        },
+        {
+          "name": "كتاب التمديدات الصحية الفصل الثاني",
+          "uri": "https://drive.google.com/file/d/1Sox4hI6OhYeXMRheB0RA_aNHhjxy0Bd8/view?usp=drive_link"
+        }
+      ]
+    },
+    "blacksmithing": {
+      "exams": [],
+      "attachments": []
+    },
+    "energy": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب الطاقة المتجددة عملي الفصل الاول",
+          "uri": "https://drive.google.com/file/d/1giVZiqiNW6HrEoR7X_4XDoRMhtCzmj-1/view?usp=drive_link"
+        },
+        {
+          "name": "كتاب الطاقة المتجددة عملي الفصل الثاني",
+          "uri": "https://drive.google.com/file/d/1gXPdoFavDZ7CvW3uf6TilJGidIz1GQoH/view?usp=sharing"
+        },
+        {
+          "name": "كتاب الطاقة المتجددة نظري المسار المهني",
+          "uri": "https://drive.google.com/file/d/1nppdx005aOdQEGaPNZXzOIunHpwopzbM/view?usp=drive_link"
+        },
+        {
+          "name": "كتاب الطاقة المتجددة علم الصناعة الفصل الثاني",
+          "uri": "https://drive.google.com/file/d/1Tx8as1i9bBr6Z7fVj2rFB67a6C_9BkyL/view?usp=drive_link"
+        }
+      ]
+    },
+    "use_electricity": {
+      "exams": [],
+      "attachments": []
+    },
+    "cars_electricity": {
+      "exams": [],
+      "attachments": []
+    },
+    "smart_homes": {
+      "exams": [],
+      "attachments": []
+    },
+    "mechanics": {
+      "exams": [],
+      "attachments": []
+    },
+    "carpentry": {
+      "exams": [],
+      "attachments": []
+    },
+    "apps": {
+      "exams": [],
+      "attachments": []
+    },
+    "computer": {
+      "exams": [],
+      "attachments": []
+    },
+    "electronics": {
+      "exams": [],
+      "attachments": []
+    },
+    "drawing": {
+      "exams": [],
+      "attachments": [
+        {
+          "name": "كتاب الرسم الصناعي الفصل الاول",
+          "uri": "https://drive.google.com/file/d/1DC1F05AxbO96_r7Rh1f3UIwhTeaUC0y_/view?usp=drive_link"
+        },
+        {
+          "name": "كتاب الرسم الصناعي الفصل الثاني",
+          "uri": "https://drive.google.com/file/d/11HyQ2B5yqZ3MAeQbutPr-0vacaRpI0bL/view?usp=drive_linkk"
+        }
+      ]
+    }
+  },
+
+  "12": {
+    "math": {
+      "exams": [
+        {
+          "name": "قريبا",
+          "uri": ""
+        },
+        {
+          "name": "قريبا",
+          "uri": ""
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب الرياضيات",
+          "uri": "https://drive.google.com/file/d/1-bEFFwvOerv9P33peodX0pHukp81XsoW/view"
+        },
+        {
+          "name": "قريبا",
+          "uri": ""
+        }
+      ]
+    },
+    "english": {
+      "exams": [
+        {
+          "name": "امتحان تجريبي قباطية 2022",
+          "uri": "https://drive.google.com/file/d/1qO66aN8GkHCngrBo4Yp_-_5GwKdn70tb/view"
+        },
+        {
+          "name": "امتحان تجريبي غرب غزة 2022",
+          "uri": "https://drive.google.com/file/d/18lwIzB1nQDWuFSKJf8bi-xxBr-YjJEWP/view"
+        },
+        {
+          "name": "امتحان تجريبي رام الله",
+          "uri": "https://drive.google.com/file/d/16JfpvxlxwCa5C7jrhrcPu8ZrGwYep27D/view"
+        },
+        {
+          "name": "امتحان تجريبي سلفيت 2022",
+          "uri": "https://drive.google.com/file/d/15ltykEBUmW5iz56cCzYI8-57skOMHMnp/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب اللغة الإنجليزية",
+          "uri": "https://drive.google.com/file/d/1aChMVMzWh-yqG1fu8ojZYw0yB69XDlpP/view"
+        },
+        {
+          "name": "تلخيص للوحدات 1_2_3_4_7_8",
+          "uri": "https://drive.google.com/file/d/1igLs7tYoCJ6wz5I6KakCKxAM2r23juK3/view"
+        },
+        {
+          "name": "كيفية كتابة التعبير",
+          "uri": "https://drive.google.com/file/d/1bEhPkxhaTvJT81Uer6GcGQUrqjld3cws/view"
+        },
+        {
+          "name": "قطع خارجية وزارية مع الحلول",
+          "uri": "https://drive.google.com/file/d/1pTBpfZeIyddFjzxxWyww8u8ZBi5Lqj89/view"
+        },
+        {
+          "name": "المصنف توجيهي ف1-2 أ. باسل",
+          "uri": "https://drive.google.com/file/d/1WBKeKKqYhIsxL2cgqYJR8d0vUSl9jCL2/view"
+        }
+      ]
+    },
+    "arabic": {
+      "exams": [
+        {
+          "name": "امتحان وزاري مع الاجابات 2023",
+          "uri": "https://drive.google.com/file/d/1X3AStBpbKB1dOZBCILeTZvVcyh3q33cy/view"
+        },
+        {
+          "name": "امتحان وزاري دورة ثانية 2021",
+          "uri": "https://drive.google.com/file/d/1oDs6ZZxTQNkajQm6349cvxERD5pmb9Cq/view"
+        },
+        {
+          "name": "امتحان وزاري 2024",
+          "uri": "https://drive.google.com/file/d/1cB-xKGxHJhNX9uCI4PY9Mcx94HNnvAG_/view"
+        },
+        {
+          "name": "قريبا",
+          "uri": ""
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب اللغة العربية",
+          "uri": "https://drive.google.com/file/d/1tOQejrJKLgYlW0DeWnLoUz3-b7p1ZGFO/view"
+        },
+        {
+          "name": "شرح وحل اسئلة الكتاب",
+          "uri": "https://drive.google.com/file/d/1V82zmR65Vl_637HXVAqMBlTac9S_BV3d/view"
+        },
+        {
+          "name": "قريبا",
+          "uri": ""
+        },
+        {
+          "name": "قريبا",
+          "uri": ""
+        }
+      ]
+    },
+    "religion": {
+      "exams": [
+        {
+          "name": "مناطقي جنين 2022",
+          "uri": "https://drive.google.com/file/d/1CZ3ZkzP_McbWbQ3yKlp7-9nqqQNHyMCc/view"
+        },
+        {
+          "name": "مناطقي يطا 2022",
+          "uri": "https://drive.google.com/file/d/1zizuV6BNXapJA73sn9gYUQ9nlvfvyZFj/view"
+        },
+        {
+          "name": "امتحان الإدارة العامة 2022",
+          "uri": "https://drive.google.com/file/d/1x2LelrAq6lsCGt0IQEK_RZzJNa7O2it4/view"
+        },
+        {
+          "name": "اختيار من متعدد 1000 سؤال",
+          "uri": "https://drive.google.com/file/d/1kgzdyia5Gtw59UtoDku-d4dOvdNV_27h/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب التربية الإسلامية",
+          "uri": "https://drive.google.com/file/d/1ugFHzwPzW8hS5NNga3v0ytYj_rf8PU48/view"
+        },
+        {
+          "name": "كراسة الخرائط الذهنية 2023",
+          "uri": "https://drive.google.com/file/d/1r8WDTPkCthfB31I2pYKAoCwr-V-AKLBt/view"
+        },
+        {
+          "name": "الكراسة الذهبية في التربية الإسلامية",
+          "uri": "https://drive.google.com/file/d/1J1WfWVC-7D-ZPW1x2D3mSvq2SuJKCnhH/view"
+        },
+        {
+          "name": "شرح التلاوة والتجويد",
+          "uri": "https://drive.google.com/file/d/1_0rCteOhQmvB2ZPm5_N48C_LZVqDLGqy/view"
+        }
+      ]
+    },
+    "IT": {
+      "exams": [
+        {
+          "name": "أسئلة نظرية وأدائية في كل المادة",
+          "uri": "https://drive.google.com/file/d/14NvrwDpv7b44ux_7-NgJ685r3Hn3Sg1F/view"
+        },
+        {
+          "name": "امتحان محلول في الوحدة الثانية",
+          "uri": "https://drive.google.com/file/d/1UAm9Q1JeFGruiBsFKBymvef0BKUu4PO2/view"
+        },
+        {
+          "name": "تجميعة امتحانات 2022",
+          "uri": "https://drive.google.com/file/d/1KmLxo_AdzZ5XPyHEHs1Ib1Q2eXVRWRRL/view"
+        },
+        {
+          "name": "امتحان تجريبي قلقيلية محلول 2022",
+          "uri": "https://drive.google.com/file/d/1KmLxo_AdzZ5XPyHEHs1Ib1Q2eXVRWRRL/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب التكنولوجيا",
+          "uri": "https://drive.google.com/file/d/1pzhJtGMphNIEj8DZsuOCJ4b7kXr7XrXN/view"
+        },
+        {
+          "name": "تلخيص المادة كاملة",
+          "uri": "https://drive.google.com/file/d/13tjusoCIg9942B90pzZCcxfL1NZMGkjJ/view"
+        },
+        {
+          "name": "ملزمة التكنولوجيا المميزة",
+          "uri": "https://drive.google.com/file/d/17BoYXsvbhyhbKGWCQ0zvGdGvIs1t2Rwz/view"
+        },
+        {
+          "name": "شرح أيقونات الأكسس",
+          "uri": "https://drive.google.com/file/d/1Ujl3dOsLfsoS6W5_wKyBB8dBA7T8o3M6/view"
+        }
+      ]
+    },
+    "physics": {
+      "exams": [
+        {
+          "name": "شرح مع اسئلة محلولة في الوحدة الأولى",
+          "uri": "https://drive.google.com/file/d/1tyzeYT1UxE4CcUnMSdyWJkZT93Lv0iRo/view"
+        },
+        {
+          "name": "شرح مع اسئلة محلولة في الوحدة الثانية",
+          "uri": "https://drive.google.com/file/d/1nFopjESW_K1YJVsgc1noDC080I9KkWb9/view"
+        },
+        {
+          "name": "امتحان تشخيصي في التصادمات",
+          "uri": "https://drive.google.com/file/d/12RqvXyRGcJ-qy9hVNHIsWYPsXeRDId3k/view"
+        },
+        {
+          "name": "إجابات امتحان التصادمات السابق",
+          "uri": "https://drive.google.com/file/d/1Y0ywjipXJJxfzE6V6fwsVarcEpJgYQN9/view"
+        },
+        {
+          "name": "امتحانات تجريبي 2022 مع الحلول",
+          "uri": "https://drive.google.com/file/d/1XM-mInZpxFPzjMM683ukfdp_szp34hdF/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب الفيزياء",
+          "uri": "https://drive.google.com/file/d/1OAaPLFUNU1xs5dL55D89fcjQAnEN5qrV/view"
+        },
+        {
+          "name": "حلول الكتاب",
+          "uri": "https://drive.google.com/file/d/1olMW5b-xzzuJrGEOSKHshIZ9qYBfa8eJ/view"
+        },
+        {
+          "name": "كراسة المحترف لشرح المنهاج",
+          "uri": "https://drive.google.com/file/d/196Bnpd99HtosE8n8mKCH9kI8V5TPMcmB/view"
+        },
+        {
+          "name": "ملخص شامل",
+          "uri": "https://drive.google.com/file/d/18zYEQ1G3zp1HTBb6-uIG15JAxY3vCqyD/view"
+        }
+      ]
     },
 
-
-
-
-
-
-
-
-
-    
-    "12": {
-        "math": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "قريبا",
-                    "uri": ""
-                },
-                {
-                    "id": "2",
-                    "name": "قريبا",
-                    "uri": ""
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الرياضيات",
-                    "uri": "https://drive.google.com/file/d/1-bEFFwvOerv9P33peodX0pHukp81XsoW/view"
-                },
-                {
-                    "id": "2",
-                    "name": "قريبا",
-                    "uri": ""
-                }
-            ]
+    "graphic": {
+      "exams": [
+        {
+          "name": "علم صناعة تجريبي 2022",
+          "uri": "https://drive.google.com/file/d/1nQ4gluD0zDF0ZfWy1z9xNi0FIEJBZHX-/view"
         },
-        "english": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "امتحان تجريبي قباطية 2022",
-                    "uri": "https://drive.google.com/file/d/1qO66aN8GkHCngrBo4Yp_-_5GwKdn70tb/view"
-                },
-                {
-                    "id": "2",
-                    "name": "امتحان تجريبي غرب غزة 2022",
-                    "uri": "https://drive.google.com/file/d/18lwIzB1nQDWuFSKJf8bi-xxBr-YjJEWP/view"
-                },
-                {
-                    "id": "3",
-                    "name": "امتحان تجريبي رام الله",
-                    "uri": "https://drive.google.com/file/d/16JfpvxlxwCa5C7jrhrcPu8ZrGwYep27D/view"
-                },
-                {
-                    "id": "4",
-                    "name": "امتحان تجريبي سلفيت 2022",
-                    "uri": "https://drive.google.com/file/d/15ltykEBUmW5iz56cCzYI8-57skOMHMnp/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب اللغة الإنجليزية",
-                    "uri": "https://drive.google.com/file/d/1aChMVMzWh-yqG1fu8ojZYw0yB69XDlpP/view"
-                },
-                {
-                    "id": "2",
-                    "name": "تلخيص للوحدات 1_2_3_4_7_8",
-                    "uri": "https://drive.google.com/file/d/1igLs7tYoCJ6wz5I6KakCKxAM2r23juK3/view"
-                },
-                {
-                    "id": "3",
-                    "name": "كيفية كتابة التعبير",
-                    "uri": "https://drive.google.com/file/d/1bEhPkxhaTvJT81Uer6GcGQUrqjld3cws/view"
-                },
-                {
-                    "id": "4",
-                    "name": "قطع خارجية وزارية مع الحلول",
-                    "uri": "https://drive.google.com/file/d/1pTBpfZeIyddFjzxxWyww8u8ZBi5Lqj89/view"
-                },
-                {
-                    "id": "5",
-                    "name": "المصنف توجيهي ف1-2 أ. باسل",
-                    "uri": "https://drive.google.com/file/d/1WBKeKKqYhIsxL2cgqYJR8d0vUSl9jCL2/view"
-                }
-            ]
+        {
+          "name": "علم صناعة وزاري 2022",
+          "uri": "https://drive.google.com/file/d/1GQhrAcxmDazoznW4mIRMzybPp6cxDjSQ/view"
         },
-        "arabic": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "امتحان وزاري مع الاجابات 2023",
-                    "uri": "https://drive.google.com/file/d/1X3AStBpbKB1dOZBCILeTZvVcyh3q33cy/view"
-                },
-                {
-                    "id": "2",
-                    "name": "امتحان وزاري دورة ثانية 2021",
-                    "uri": "https://drive.google.com/file/d/1oDs6ZZxTQNkajQm6349cvxERD5pmb9Cq/view"
-                },
-                {
-                    "id": "3",
-                    "name": "امتحان وزاري 2024",
-                    "uri": "https://drive.google.com/file/d/1cB-xKGxHJhNX9uCI4PY9Mcx94HNnvAG_/view"
-                },
-                {
-                    "id": "4",
-                    "name": "قريبا",
-                    "uri": ""
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب اللغة العربية",
-                    "uri": "https://drive.google.com/file/d/1tOQejrJKLgYlW0DeWnLoUz3-b7p1ZGFO/view"
-                },
-                {
-                    "id": "2",
-                    "name": "شرح وحل اسئلة الكتاب",
-                    "uri": "https://drive.google.com/file/d/1V82zmR65Vl_637HXVAqMBlTac9S_BV3d/view"
-                },
-                {
-                    "id": "3",
-                    "name": "قريبا",
-                    "uri": ""
-                },
-                {
-                    "id": "4",
-                    "name": "قريبا",
-                    "uri": ""
-                }
-            ]
+        {
+          "name": "رسم صناعي وزاري 2022",
+          "uri": "https://drive.google.com/file/d/1cDIvdsZERaSlV4jhU0nxMDROXBlvblUG/view"
         },
-        "religion": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "مناطقي جنين 2022",
-                    "uri": "https://drive.google.com/file/d/1CZ3ZkzP_McbWbQ3yKlp7-9nqqQNHyMCc/view"
-                },
-                {
-                    "id": "2",
-                    "name": "مناطقي يطا 2022",
-                    "uri": "https://drive.google.com/file/d/1zizuV6BNXapJA73sn9gYUQ9nlvfvyZFj/view"
-                },
-                {
-                    "id": "3",
-                    "name": "امتحان الإدارة العامة 2022",
-                    "uri": "https://drive.google.com/file/d/1x2LelrAq6lsCGt0IQEK_RZzJNa7O2it4/view"
-                },
-                {
-                    "id": "4",
-                    "name": "اختيار من متعدد 1000 سؤال",
-                    "uri": "https://drive.google.com/file/d/1kgzdyia5Gtw59UtoDku-d4dOvdNV_27h/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب التربية الإسلامية",
-                    "uri": "https://drive.google.com/file/d/1ugFHzwPzW8hS5NNga3v0ytYj_rf8PU48/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كراسة الخرائط الذهنية 2023",
-                    "uri": "https://drive.google.com/file/d/1r8WDTPkCthfB31I2pYKAoCwr-V-AKLBt/view"
-                },
-                {
-                    "id": "3",
-                    "name": "الكراسة الذهبية في التربية الإسلامية",
-                    "uri": "https://drive.google.com/file/d/1J1WfWVC-7D-ZPW1x2D3mSvq2SuJKCnhH/view"
-                },
-                {
-                    "id": "4",
-                    "name": "شرح التلاوة والتجويد",
-                    "uri": "https://drive.google.com/file/d/1_0rCteOhQmvB2ZPm5_N48C_LZVqDLGqy/view"
-                }
-            ]
-        },
-        "IT": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "أسئلة نظرية وأدائية في كل المادة",
-                    "uri": "https://drive.google.com/file/d/14NvrwDpv7b44ux_7-NgJ685r3Hn3Sg1F/view"
-                },
-                {
-                    "id": "2",
-                    "name": "امتحان محلول في الوحدة الثانية",
-                    "uri": "https://drive.google.com/file/d/1UAm9Q1JeFGruiBsFKBymvef0BKUu4PO2/view"
-                },
-                {
-                    "id": "3",
-                    "name": "تجميعة امتحانات 2022",
-                    "uri": "https://drive.google.com/file/d/1KmLxo_AdzZ5XPyHEHs1Ib1Q2eXVRWRRL/view"
-                },
-                {
-                    "id": "4",
-                    "name": "امتحان تجريبي قلقيلية محلول 2022",
-                    "uri": "https://drive.google.com/file/d/1KmLxo_AdzZ5XPyHEHs1Ib1Q2eXVRWRRL/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب التكنولوجيا",
-                    "uri": "https://drive.google.com/file/d/1pzhJtGMphNIEj8DZsuOCJ4b7kXr7XrXN/view"
-                },
-                {
-                    "id": "2",
-                    "name": "تلخيص المادة كاملة",
-                    "uri": "https://drive.google.com/file/d/13tjusoCIg9942B90pzZCcxfL1NZMGkjJ/view"
-                },
-                {
-                    "id": "3",
-                    "name": "ملزمة التكنولوجيا المميزة",
-                    "uri": "https://drive.google.com/file/d/17BoYXsvbhyhbKGWCQ0zvGdGvIs1t2Rwz/view"
-                },
-                {
-                    "id": "4",
-                    "name": "شرح أيقونات الأكسس",
-                    "uri": "https://drive.google.com/file/d/1Ujl3dOsLfsoS6W5_wKyBB8dBA7T8o3M6/view"
-                }
-            ]
-        },
-        "physics": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "شرح مع اسئلة محلولة في الوحدة الأولى",
-                    "uri": "https://drive.google.com/file/d/1tyzeYT1UxE4CcUnMSdyWJkZT93Lv0iRo/view"
-                },
-                {
-                    "id": "2",
-                    "name": "شرح مع اسئلة محلولة في الوحدة الثانية",
-                    "uri": "https://drive.google.com/file/d/1nFopjESW_K1YJVsgc1noDC080I9KkWb9/view"
-                },
-                {
-                    "id": "3",
-                    "name": "امتحان تشخيصي في التصادمات",
-                    "uri": "https://drive.google.com/file/d/12RqvXyRGcJ-qy9hVNHIsWYPsXeRDId3k/view"
-                },
-                {
-                    "id": "4",
-                    "name": "إجابات امتحان التصادمات السابق",
-                    "uri": "https://drive.google.com/file/d/1Y0ywjipXJJxfzE6V6fwsVarcEpJgYQN9/view"
-                },
-                {
-                    "id": "5",
-                    "name": "امتحانات تجريبي 2022 مع الحلول",
-                    "uri": "https://drive.google.com/file/d/1XM-mInZpxFPzjMM683ukfdp_szp34hdF/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الفيزياء",
-                    "uri": "https://drive.google.com/file/d/1OAaPLFUNU1xs5dL55D89fcjQAnEN5qrV/view"
-                },
-                {
-                    "id": "2",
-                    "name": "حلول الكتاب",
-                    "uri": "https://drive.google.com/file/d/1olMW5b-xzzuJrGEOSKHshIZ9qYBfa8eJ/view"
-                },
-                {
-                    "id": "3",
-                    "name": "كراسة المحترف لشرح المنهاج",
-                    "uri": "https://drive.google.com/file/d/196Bnpd99HtosE8n8mKCH9kI8V5TPMcmB/view"
-                },
-                {
-                    "id": "4",
-                    "name": "ملخص شامل",
-                    "uri": "https://drive.google.com/file/d/18zYEQ1G3zp1HTBb6-uIG15JAxY3vCqyD/view"
-                }
-            ]
-        },
-
-
-
-
-
-        
-        "graphic": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة تجريبي 2022",
-                    "uri": "https://drive.google.com/file/d/1nQ4gluD0zDF0ZfWy1z9xNi0FIEJBZHX-/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة وزاري 2022",
-                    "uri": "https://drive.google.com/file/d/1GQhrAcxmDazoznW4mIRMzybPp6cxDjSQ/view"
-                },
-                {
-                    "id": "3",
-                    "name": "رسم صناعي وزاري 2022",
-                    "uri": "https://drive.google.com/file/d/1cDIvdsZERaSlV4jhU0nxMDROXBlvblUG/view"
-                },
-                {
-                    "id": "4",
-                    "name": "رسم صناعي تجريبي 2022",
-                    "uri": "https://drive.google.com/file/d/1xOYUp6_gSeBJvl8kWylrrFUlAHpeIKyA/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب التصميم الجرافيكي",
-                    "uri": "https://drive.google.com/file/d/1d1LCVQM5H0uHVbuZbnUBj4-cVfvWACJA/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
-                    "uri": "https://drive.google.com/file/d/1hd6cOqLqD_bqUx3vGTyUiy9E_nh2atqo/view"
-                }
-            ]
-        },
-        "websites": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة وزاري 2022",
-                    "uri": "https://drive.google.com/file/d/1bKcYUK5_AdPIBbItpc_SsxpkiXF64jq5/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة وزاري مع الإجابات 2021",
-                    "uri": "https://drive.google.com/file/d/1U5o62S8ubk-Gy304Q7dFhJzbrtUTpWGy/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة وزاري 2020",
-                    "uri": "https://drive.google.com/file/d/1yKEFksoX4R98UnByY-FplXcMVNMxKKD5/view"
-                },
-                {
-                    "id": "4",
-                    "name": "رسم صناعي وزاري 2021",
-                    "uri": "https://drive.google.com/file/d/16NktWTVeRWa2h_ZSDk3Zn0tvBQhNhVZ8/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي وزاري 2022",
-                    "uri": "https://drive.google.com/file/d/1PxskBrctmOKfQK42laR3G10Nhpik-YTo/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي وزاري 2023",
-                    "uri": "https://drive.google.com/file/d/19waOmBDAZY72oaTe8mDfdAXMDDP1bP-a/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب تخصص تصميم صفحات الإنترنت",
-                    "uri": "https://drive.google.com/file/d/1qBr6SCNIHeSfffXv0MnGhmAz3ezjgT91/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
-                    "uri": "https://drive.google.com/file/d/1hd6cOqLqD_bqUx3vGTyUiy9E_nh2atqo/view"
-                }
-            ]
-        },
-        "sanitary": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة وزاري 2020",
-                    "uri": "https://drive.google.com/file/d/1rw_GvHVjkgHLL0ELTmW8wHTzjyRPOhgO/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة تجريبي مع الإجابة رام الله",
-                    "uri": "https://drive.google.com/file/d/1zP9GjT1EZwCxKpc062sUeHJOgRJXLEmd/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة تجريبي طولكرم",
-                    "uri": "https://drive.google.com/file/d/1s8MROJzy1ba5RJzC0hamkOAJ55ylqWDT/view"
-                },
-                {
-                    "id": "4",
-                    "name": "رسم صناعي وزاري 2019",
-                    "uri": "https://drive.google.com/file/d/1I4qi7-qRmFvIT0iOHQcRgcYmezbr8MEB/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي تجريبي رام الله",
-                    "uri": "https://drive.google.com/file/d/1jSBcvGv8CqXQWzTpaSHW6TEcHuD_Am3N/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي تجريبي طولكرم",
-                    "uri": "https://drive.google.com/file/d/1vodQ-G0lsqWJTik4W_INCnWqR2eFbY8Y/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
-                    "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
-                }
-            ]
-        },
-        "blacksmithing": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة تجريبي رام الله",
-                    "uri": "https://drive.google.com/file/d/19crNA4kOGk_FjOQydFXQ2SxYdg9ytSSE/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة تجريبي طولكرم",
-                    "uri": "https://drive.google.com/file/d/1CvEJrHOjT5bI7LesVM0FcxGZQj9z-6ow/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة وزاري 2024",
-                    "uri": "https://drive.google.com/file/d/1JK2YPm4LztK6CtJOJFF_Hh8ps17MRrhU/view"
-                },
-                {
-                    "id": "4",
-                    "name": "رسم صناعي وزاري 2021",
-                    "uri": "https://drive.google.com/file/d/1VTweKPlWHre4zlIs9nHNm3eL5oIyIr0I/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي تجريبي طولكرم",
-                    "uri": "https://drive.google.com/file/d/1nxGHn7izr9r4uM6FnPtRw_gdHx88DTh_/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
-                    "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
-                }
-            ]
-        },
-        "energy": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "الدورة الأولى-علم الصناعة -2022",
-                    "uri": "https://drive.google.com/file/d/1VNEiDKpU6jJkxWemfeb7Z_60o-twFFhF/view"
-                },
-                {
-                    "id": "2",
-                    "name": "الدورة الثانية-علم الصناعة -2022",
-                    "uri": "https://drive.google.com/file/d/1V9Mpf6fsQmAidKjjPLY4EYD4S_nnq82f/view"
-                },
-                {
-                    "id": "3",
-                    "name": "الدورة الأولى-علم الصناعة -2023",
-                    "uri": "https://drive.google.com/file/d/1x6swe8v3E19Ha-oKa3UE-BXdzOv7Riak/view"
-                },
-                {
-                    "id": "4",
-                    "name": "الدورة الثانية-علم الصناعة -2023",
-                    "uri": "https://drive.google.com/file/d/1-SiUGtinWNqWQLdE0KMrZ8CuKNfGRfTJ/view"
-                },
-                {
-                    "id": "5",
-                    "name": "الدورة الاولى2022-رسم",
-                    "uri": "https://drive.google.com/file/d/1Y00hoCJQIucMKbRmtVFlrJB91bCDRhFX/view"
-                },
-                {
-                    "id": "6",
-                    "name": "الدورة الثانية2022-رسم",
-                    "uri": "https://drive.google.com/file/d/1lejzA9zz7RoEJfDepr1HkyRrnXfsAr4C/view"
-                },
-                {
-                    "id": "7",
-                    "name": "الدورة الاولى2023-رسم",
-                    "uri": "https://drive.google.com/file/d/12XYofw7ch21HV0DZ-3j2yy5Cl31ikXod/view"
-                },
-                {
-                    "id": "8",
-                    "name": "الدورة الثانية 2023-رسم",
-                    "uri": "https://drive.google.com/file/d/1x3v7glDGCoroo6czTMH4-jCVmT1yLQ-Q/view"
-                },
-                {
-                    "id": "9",
-                    "name": "الدورة الاولى2024-رسم",
-                    "uri": "https://drive.google.com/file/d/1hswcrzwzBUEaGYAiDrhq5xZoUNDuh2x6/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الطاقة المتجددة",
-                    "uri": "https://drive.google.com/file/d/1c5gkT1iFcq0xqV8E5rNqDuJTo0bhkrCB/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
-                    "uri": "https://drive.google.com/file/d/1XYzZt_Ptgb3v6qB0wpblJilvwSPJKuBO/view"
-                }
-            ]
-        },
-        "use_electricity": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة وزاري 2020",
-                    "uri": "https://drive.google.com/file/d/1IUjLSkI-NoVHll6eMgC-1QlNuwC1SJGs/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة وزاري 2020 دورة ثانية",
-                    "uri": "https://drive.google.com/file/d/1PBmx3qRODSIqmGEEEPFw-MWOisN6A3n0/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة تجريبي سلفيت",
-                    "uri": "https://drive.google.com/file/d/1QaguhDewlZbUo4FB0PQELiBM8P_sVw69/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة شهرين مع الاجابات",
-                    "uri": "https://drive.google.com/file/d/18PSFi8oPOqO8JG7cIEcfjV8bf61KTSkw/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي وزاري 2022 دورة ثانية",
-                    "uri": "https://drive.google.com/file/d/1TxtYMXFu15qhk3YkvWwEJl04IuMMQUZm/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي وزاري 2023",
-                    "uri": "https://drive.google.com/file/d/1UTC3OAz8VPNlApTIBJEnyMOVcY5EJxW4/view"
-                },
-                {
-                    "id": "7",
-                    "name": "رسم صناعي شهرين",
-                    "uri": "https://drive.google.com/file/d/1nI6rEixpodL4D67bCZlNzyETswPzT6Ys/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب كهرباء استعمال",
-                    "uri": "https://drive.google.com/file/d/1xmAwW3q1Nb5McpW1NhB2WcERM8oVy7lj/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
-                    "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
-                },
-                {
-                    "id": "3",
-                    "name": "حلول كتاب كهرباء استعمال",
-                    "uri": "https://drive.google.com/file/d/11boCV25pNObATI0IYPP2vDewxdTAXU51/view"
-                },
-                {
-                    "id": "4",
-                    "name": "اسئلة على الوحدة الاولى في علم الصناعة",
-                    "uri": "https://drive.google.com/file/d/1nN8w2Wh0hsBsZo4ZXf4-jx3TU6VtpTmB/view"
-                },
-                {
-                    "id": "5",
-                    "name": "اسئلة على الوحدة الثانية في علم الصناعة",
-                    "uri": "https://drive.google.com/file/d/1_n9bo2ZNLHVcOkOrwvQlD2OvVpO3OWum/view"
-                }
-            ]
-        },
-        "cars_electricity": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة تجريبي قلقيلية",
-                    "uri": "https://drive.google.com/file/d/1g0DqjUYrA6vzWCE6-Z3dzJ7bRrYOHMTu/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة وزاري 2022",
-                    "uri": "https://drive.google.com/file/d/1-32DYLCh8ljgvOc6b7Mi_ab4JGgyPqMK/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة وزاري مع الاجابات 2020",
-                    "uri": "https://drive.google.com/file/d/1ncVeaYKxh0aNcBNLCSg697sZda-_RiSY/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة وزاري 2019",
-                    "uri": "https://drive.google.com/file/d/1D1-S58snwdo904uFm11riBBX2EM4vRLr/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي وزاري 2019",
-                    "uri": "https://drive.google.com/file/d/1ia_Ua_UihHLSze_EYczzWAoqekGm2dUh/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي تجريبي قلقيلية",
-                    "uri": "https://drive.google.com/file/d/1mbhGHmt8smMpjyZisV6hxXUbb7i5lNJL/view"
-                },
-                {
-                    "id": "7",
-                    "name": "رسم صناعي وزاري 2021",
-                    "uri": "https://drive.google.com/file/d/1SgH3R4j7YYiRvbjQuntSUCp_A9rdmWFk/view"
-                },
-                {
-                    "id": "8",
-                    "name": "رسم صناعي وزاري 2020",
-                    "uri": "https://drive.google.com/file/d/11oZqZlalvWQmXK4Yu05_LB-WICcVTe22/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب كهرباء سيارات",
-                    "uri": "https://drive.google.com/file/d/1xmAwW3q1Nb5McpW1NhB2WcERM8oVy7lj/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
-                    "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
-                },
-                {
-                    "id": "3",
-                    "name": "حلول كتاب كهرباء سيارات",
-                    "uri": "https://drive.google.com/file/d/11boCV25pNObATI0IYPP2vDewxdTAXU51/view"
-                }
-            ]
-        },
-        "smart_homes": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة وزاري 2019",
-                    "uri": "https://drive.google.com/file/d/1rux3Bvt9pRLZHC_dS-nSOV2fugZY6XDz/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة وزاري 2020",
-                    "uri": "https://drive.google.com/file/d/1dikDArckyDYEHXvcYZPA8qSAVHYS4tXk/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة وزاري 2021 الدورة الأولى",
-                    "uri": "https://drive.google.com/file/d/1r0FsHkS8PleW7oIw12unEqhBZ21KHZgV/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة وزاري 2021 الدورة الثانية",
-                    "uri": "https://drive.google.com/file/d/1bf2uhgjtoIpxIyrkGrIgSvNl5Vq4SUwp/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي تجريبي جنوب الخليل",
-                    "uri": "https://drive.google.com/file/d/1G1m601zs0iCxgUf4AkIoEFcMqJHf8PsZ/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي وزاري 2021 الدورة الأولى",
-                    "uri": "https://drive.google.com/file/d/1gYskZtMfBdwXExnZ0IL75QKENt7n9kBs/view"
-                },
-                {
-                    "id": "7",
-                    "name": "رسم صناعي وزاري 2021 الدورة الثانية",
-                    "uri": "https://drive.google.com/file/d/1CbRaNpdDNzZblDVjefSwvYG3nS55ZAS-/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب تكنولوجيا المباني الذكية",
-                    "uri": "https://drive.google.com/file/d/11Ck0xPYXigmkpgiVrYUEUgkfOJ40Pkm5/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الكهرباء",
-                    "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
-                },
-                {
-                    "id": "3",
-                    "name": "حلول كتاب تكنولوجيا المباني الذكية",
-                    "uri": "https://drive.google.com/file/d/1tyGqM2kz8VNLdq9KZoiqov9H5BX6-UDS/view"
-                },
-                {
-                    "id": "4",
-                    "name": "كتيب نظام الحريث تليفير",
-                    "uri": "https://drive.google.com/file/d/1fITURsH37bkW2bmZQdSnHEGs1qI5K-MK/view"
-                },
-                {
-                    "id": "5",
-                    "name": "تجربة وسائط النقل",
-                    "uri": "https://drive.google.com/file/d/1R_DDFEsh8a3Ab9kowp_ejZWMm3GEZal3/view"
-                },
-                {
-                    "id": "6",
-                    "name": "إجابات أسئلة الوحدة الأولى",
-                    "uri": "https://drive.google.com/file/d/1O07RqYIhiZlAXhXdDA03qUjkTFYb7kkJ/view"
-                }
-            ]
-        },
-        "mechanics": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة وزاري 2019",
-                    "uri": "https://drive.google.com/file/d/1Gg9-o4QIVZLNMGMM2vE-GO1ICkLokZe3/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة وزاري 2020",
-                    "uri": "https://drive.google.com/file/d/1EnxM_92XeuS44-zUG3iLxmETBri7WqCZ/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة وزاري 2021",
-                    "uri": "https://drive.google.com/file/d/1q-O0cR_zRGOQW5r9MECEmBLDuS-wOv5u/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة تجريبي",
-                    "uri": "https://drive.google.com/file/d/1Vcv1NiH1oxuBvpX-786i4vrN4l4kGg8B/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي وزاري 2019 الدورة الأولى",
-                    "uri": "https://drive.google.com/file/d/1NojbsyKEiRLSAzvAvxlYC0yQ8aKxbzwS/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي وزاري 2019 الدورة الثانية",
-                    "uri": "https://drive.google.com/file/d/149xdgIvYWHcpFgxWTSF87UT_YqFY3d9Z/view"
-                },
-                {
-                    "id": "7",
-                    "name": "رسم صناعي تجريبي طولكرم 2020",
-                    "uri": "https://drive.google.com/file/d/1ujXS0oN6U_cAM2yCaW-a4JPx39BiSU9q/view"
-                },
-                {
-                    "id": "8",
-                    "name": "رسم صناعي وزاري 2021 مع الإجابات",
-                    "uri": "https://drive.google.com/file/d/13HLROTpUlcTI0dv91ppRhvx9KrD47RAm/view"
-                },
-                {
-                    "id": "9",
-                    "name": "رسم صناعي وزاري 2022",
-                    "uri": "https://drive.google.com/file/d/16kuIruLCCz-9IwzDaC8wTaqhkXb-x4ke/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب ميكانيك السيارات",
-                    "uri": "https://drive.google.com/file/d/1PsE0GcmQ7qwiQZKIOmjqfVdNGnn8RdiW/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
-                    "uri": "https://drive.google.com/file/d/1bfdyzJJxO7PEB6z86riXoBvi2X7ldrSG/view"
-                },
-                {
-                    "id": "3",
-                    "name": "حلول كتاب ميكانيك السيارات",
-                    "uri": "https://drive.google.com/file/d/1XWNMqW7ngPle7EvJCgBmjMqE56zp3bXq/view"
-                }
-            ]
-        },
-        "carpentry": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة وزاري 2019",
-                    "uri": "https://drive.google.com/file/d/1eym9g-tOXzz77FLyK48gro2LJrGgZLy-/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة وزاري 2021",
-                    "uri": "https://drive.google.com/file/d/1KbLIjWfJvi9VKef-kq5eE-sY0lQDnqXx/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة تجريبي طواكرم",
-                    "uri": "https://drive.google.com/file/d/16OV6y2ughQWvRGdrJ_6IlMIM_uRRoD8i/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة تجريبي رام الله والبيرة",
-                    "uri": "https://drive.google.com/file/d/1wEaBHHcnyPxYZQAg7q3brekRiPHY9ene/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي وزاري 2019",
-                    "uri": "https://drive.google.com/file/d/1YriXPJkseRVe3w_x9nSA_6ywmamBK1Qg/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي وزاري 2020",
-                    "uri": "https://drive.google.com/file/d/1NRNg_xn9IGLCnPbljwfLMKf5s62CYy8q/view"
-                },
-                {
-                    "id": "7",
-                    "name": "رسم صناعي وزاري 2021 مع الإجابات",
-                    "uri": "https://drive.google.com/file/d/12rB-wS26hiCua6gdAoqGdezC_5siLi9h/view"
-                },
-                {
-                    "id": "8",
-                    "name": "رسم صناعي وزاري 2022",
-                    "uri": "https://drive.google.com/file/d/14XaWVdh6kS0_sla9sQEbDel7M4orMGxW/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
-                },
-                {
-                    "id": "2",
-                    "name": "حلول كتاب النجارة",
-                    "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
-                },
-                {
-                    "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
-                    "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
-                }
-            ]
-        },
-        "electronics": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/1juz0DrtT73BjJWCtjukBJIU_kVq1IfF5/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة الدورة الثانية 2022",
-                    "uri": "https://drive.google.com/file/d/1QDtJAhFsj9MovE7sfS5DEaJmFm_VvFJs/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة الدورة الثالثة 2022",
-                    "uri": "https://drive.google.com/file/d/1DUH7zWsCaUwCmcW5kIKaawpLSvMFoj0G/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة الدورة الأولى 2023",
-                    "uri": "https://drive.google.com/file/d/1stZMBOHS3eeXcInXyuW5N10vdTTRN6-_/view"
-                },
-                {
-                    "id": "5",
-                    "name": "علم صناعة الدورة الثانية 2023",
-                    "uri": "https://drive.google.com/file/d/1HHG_O1kR1IOzSrAciJzC2i4C_SFd2bAa/view"
-                },
-                {
-                    "id": "6",
-                    "name": "علم صناعة الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/12LWaHwTIsVoZyl2Pggerptfyvj6yVSC-/view"
-                },
-                {
-                    "id": "7",
-                    "name": "علم صناعة الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/1kxb6YqzAKFZXwOhsZR1SaWHZ-KMpYiDv/view"
-                },
-                {
-                    "id": "8",
-                    "name": "رسم صناعي الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/1_xQmyMXQcr9ef84XCaMsRAtbxn-3r4f6/view"
-                },
-                {
-                    "id": "9",
-                    "name": "رسم صناعي الدورة الثانية 2022",
-                    "uri": "https://drive.google.com/file/d/1u6QU6ObobyRFR5pgcbYfuCTPyznm98BO/view"
-                },
-                {
-                    "id": "10",
-                    "name": "رسم صناعي الدورة الأولى 2023",
-                    "uri": "https://drive.google.com/file/d/1wEAeQ7DqVTGClCIKlT8RHs_UHR7_Mxsh/view"
-                },
-                {
-                    "id": "11",
-                    "name": "رسم صناعي الدورة الثانية 2023",
-                    "uri": "https://drive.google.com/file/d/10hc2jrbSRy38dgAtotMS4lWFKTQSRH-s/view"
-                },
-                {
-                    "id": "12",
-                    "name": "رسم صناعي الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/10Lh3zm2bHrOLpTQXCxzAU6ewXS86h51K/view"
-                },
-                {
-                    "id": "13",
-                    "name": "رسم صناعي الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/1zZcdoq8dseooHIycbdwacTruNptBlDyi/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الإلكترونيات الصناعية",
-                    "uri": "https://drive.google.com/file/d/1iajCaetLY4HqHNYRuhbq2MrfkYNOoW5t/view"
-                },
-                {
-                    "id": "2",
-                    "name": "حلول كتاب الإلكترونيات الصناعية",
-                    "uri": "https://drive.google.com/file/d/1JR_kUc7qT90S28W8htK1VxLw9luEa1Rz/view"
-                },
-                {
-                    "id": "3",
-                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
-                    "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
-                }
-            ]
-        },
-        "apps": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/1lCfeba8AFuTODCX6rmkxJSvqZQrv9w9h/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة الدورة الأولى 2023",
-                    "uri": "https://drive.google.com/file/d/1dGHWHbiiIy5L8djbTrLf_mNnkcOzCUB-/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/10tdQoLpoyKNoUHAsf7jZZ-RmLG_uztrH/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/1LTR6jtMZmf83kv80BT-EoVlPWSoCQATW/view"
-                },
-                {
-                    "id": "5",
-                    "name": "رسم صناعي الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/1Y0McGB6TdsypoLtYHiGHt0qIi6tALRkI/view"
-                },
-                {
-                    "id": "6",
-                    "name": "رسم صناعي الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/1RBHIY-NKXgHEQeCa4NFZlQPt1am6fkfT/view"
-                },
-                {
-                    "id": "7",
-                    "name": "رسم صناعي الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/1FdNfnC9Ws4J1BfcGQIFskvqJC9_KwQSW/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب تطبيقات الهواتف الذكية",
-                    "uri": "https://drive.google.com/file/d/1jX85SkRi_xxE6WuBFKJpMBRB7ydTY-Gn/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
-                    "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
-                }
-            ]
-        },
-        "refrigeration": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/1YLki1XmR4DlyeursbAtv111SZZ_WyhZz/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة الدورة الثانية 2022",
-                    "uri": "https://drive.google.com/file/d/1jkIuzNM3kdizXxb78Dd4v4IkhWf13VRR/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة الدورة الأولى 2023",
-                    "uri": "https://drive.google.com/file/d/1D2W--CDcPpSVo97-s1P2Ut9-fK8FQy_2/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة الدورة الثانية 2023",
-                    "uri": "https://drive.google.com/file/d/1xEzlivYT9JJp4F8KXJ7CGU1GyWlBySWv/view"
-                },
-                {
-                    "id": "5",
-                    "name": "علم صناعة الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/15WzyJ8NTFZbYx5dkXcULzc87ttnurGKY/view"
-                },
-                {
-                    "id": "6",
-                    "name": "علم صناعة الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/1vn_rNHaoJftFB_CP5H629ki59J-7Mzes/view"
-                },
-                {
-                    "id": "7",
-                    "name": "رسم صناعي الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/1b7Q41i9kZ5T3xKAOkOno8XiPWLCLjk9C/view"
-                },
-                {
-                    "id": "8",
-                    "name": "رسم صناعي الدورة الثانية 2022",
-                    "uri": "https://drive.google.com/file/d/1ZIDdyqOMP0KO89KBSM69YjM760yZY4FT/view"
-                },
-                {
-                    "id": "9",
-                    "name": "رسم صناعي الدورة الأولى 2023",
-                    "uri": "https://drive.google.com/file/d/1wQAvKTQht9nLwjHJ4S94iO2UOtiB8RWV/view"
-                },
-                {
-                    "id": "10",
-                    "name": "رسم صناعي الدورة الثانية 2023",
-                    "uri": "https://drive.google.com/file/d/19qX3FFpIBs82a8416SlfABaamxJ9hzAb/view"
-                },
-                {
-                    "id": "11",
-                    "name": "رسم صناعي الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/1fve2fBuleSJIYRTxt8iRrkytKfjeyzfO/view"
-                },
-                {
-                    "id": "12",
-                    "name": "رسم صناعي الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/1N7YSfY11kcIiReqOpRjQnaTDfIwOlpC1/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب الرسم الصناعي عائلة الميكانيك",
-                    "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
-                }
-            ]
-        },
-        "computer": {
-            "exams": [
-                {
-                    "id": "1",
-                    "name": "علم صناعة الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/11n-p2jM2eF5LEzpKxUbPJr7Ac5gnu-kh/view"
-                },
-                {
-                    "id": "2",
-                    "name": "علم صناعة الدورة الثانية 2022",
-                    "uri": "https://drive.google.com/file/d/1JHrnDeYA7yYXzeWWjITXYLFkxELYZaHX/view"
-                },
-                {
-                    "id": "3",
-                    "name": "علم صناعة الدورة الثالثة 2022",
-                    "uri": "https://drive.google.com/file/d/1hCl_RQZb9bFeFMB82-5y-3X80xo1NWrf/view"
-                },
-                {
-                    "id": "4",
-                    "name": "علم صناعة الدورة الأولى 2023",
-                    "uri": "https://drive.google.com/file/d/1waFgs-eRNmxkIKZ1ysZpA-jDXttmELSt/view"
-                },
-                {
-                    "id": "5",
-                    "name": "علم صناعة الدورة الثانية 2023",
-                    "uri": "https://drive.google.com/file/d/1AnvLSPHsv0mfyhXwu7_QclTrczgEeG8y/view"
-                },
-                {
-                    "id": "6",
-                    "name": "علم صناعة الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/16t4L7BQqnPeopTDrQLQMtT20g1rL9nzE/view"
-                },
-                {
-                    "id": "7",
-                    "name": "علم صناعة الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/1MilXej4dBXAjL4vDEOPFfuAzAZcflGmB/view"
-                },
-                {
-                    "id": "8",
-                    "name": "رسم صناعي الدورة الأولى 2022",
-                    "uri": "https://drive.google.com/file/d/11p6bLAFumB__Gm2VFAFZi5LtG3i7kRn3/view"
-                },
-                {
-                    "id": "9",
-                    "name": "رسم صناعي الدورة الثانية 2022",
-                    "uri": "https://drive.google.com/file/d/1K6XN7KrpMTwu4HV06qDe05FXVSauOwUn/view"
-                },
-                {
-                    "id": "10",
-                    "name": "رسم صناعي الدورة الأولى 2023",
-                    "uri": "https://drive.google.com/file/d/1tYqPhIuS6WP5kNiTolNEnGZuBE0FuC4z/view"
-                },
-                {
-                    "id": "11",
-                    "name": "رسم صناعي الدورة الثانية 2023",
-                    "uri": "https://drive.google.com/file/d/1ID_Bpw5ywrlFJh3bi_lucbD8P0PiSsI_/view"
-                },
-                {
-                    "id": "12",
-                    "name": "رسم صناعي الدورة الأولى 2024",
-                    "uri": "https://drive.google.com/file/d/126tytdfRiLdxfJiJgjcfHf2zZAfTn8zE/view"
-                },
-                {
-                    "id": "13",
-                    "name": "رسم صناعي الدورة الثانية 2024",
-                    "uri": "https://drive.google.com/file/d/19g6VOkf3bTak_SAZmKg1kCtrNDAfX4gK/view"
-                }
-            ],
-            "attachments": [
-                {
-                    "id": "1",
-                    "name": "كتاب صيانة أجهزة الحاسوب",
-                    "uri": "https://drive.google.com/file/d/11_Yzhr1KjyH5iTkJnJznQ35fKdcpYoXJ/view"
-                },
-                {
-                    "id": "2",
-                    "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
-                    "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
-                }
-            ]
+        {
+          "name": "رسم صناعي تجريبي 2022",
+          "uri": "https://drive.google.com/file/d/1xOYUp6_gSeBJvl8kWylrrFUlAHpeIKyA/view"
         }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب التصميم الجرافيكي",
+          "uri": "https://drive.google.com/file/d/1d1LCVQM5H0uHVbuZbnUBj4-cVfvWACJA/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+          "uri": "https://drive.google.com/file/d/1hd6cOqLqD_bqUx3vGTyUiy9E_nh2atqo/view"
+        }
+      ]
+    },
+    "websites": {
+      "exams": [
+        {
+          "name": "علم صناعة وزاري 2022",
+          "uri": "https://drive.google.com/file/d/1bKcYUK5_AdPIBbItpc_SsxpkiXF64jq5/view"
+        },
+        {
+          "name": "علم صناعة وزاري مع الإجابات 2021",
+          "uri": "https://drive.google.com/file/d/1U5o62S8ubk-Gy304Q7dFhJzbrtUTpWGy/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2020",
+          "uri": "https://drive.google.com/file/d/1yKEFksoX4R98UnByY-FplXcMVNMxKKD5/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2021",
+          "uri": "https://drive.google.com/file/d/16NktWTVeRWa2h_ZSDk3Zn0tvBQhNhVZ8/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2022",
+          "uri": "https://drive.google.com/file/d/1PxskBrctmOKfQK42laR3G10Nhpik-YTo/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2023",
+          "uri": "https://drive.google.com/file/d/19waOmBDAZY72oaTe8mDfdAXMDDP1bP-a/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب تخصص تصميم صفحات الإنترنت",
+          "uri": "https://drive.google.com/file/d/1qBr6SCNIHeSfffXv0MnGhmAz3ezjgT91/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+          "uri": "https://drive.google.com/file/d/1hd6cOqLqD_bqUx3vGTyUiy9E_nh2atqo/view"
+        }
+      ]
+    },
+    "sanitary": {
+      "exams": [
+        {
+          "name": "علم صناعة وزاري 2020",
+          "uri": "https://drive.google.com/file/d/1rw_GvHVjkgHLL0ELTmW8wHTzjyRPOhgO/view"
+        },
+        {
+          "name": "علم صناعة تجريبي مع الإجابة رام الله",
+          "uri": "https://drive.google.com/file/d/1zP9GjT1EZwCxKpc062sUeHJOgRJXLEmd/view"
+        },
+        {
+          "name": "علم صناعة تجريبي طولكرم",
+          "uri": "https://drive.google.com/file/d/1s8MROJzy1ba5RJzC0hamkOAJ55ylqWDT/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2019",
+          "uri": "https://drive.google.com/file/d/1I4qi7-qRmFvIT0iOHQcRgcYmezbr8MEB/view"
+        },
+        {
+          "name": "رسم صناعي تجريبي رام الله",
+          "uri": "https://drive.google.com/file/d/1jSBcvGv8CqXQWzTpaSHW6TEcHuD_Am3N/view"
+        },
+        {
+          "name": "رسم صناعي تجريبي طولكرم",
+          "uri": "https://drive.google.com/file/d/1vodQ-G0lsqWJTik4W_INCnWqR2eFbY8Y/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+          "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
+        }
+      ]
+    },
+    "blacksmithing": {
+      "exams": [
+        {
+          "name": "علم صناعة تجريبي رام الله",
+          "uri": "https://drive.google.com/file/d/19crNA4kOGk_FjOQydFXQ2SxYdg9ytSSE/view"
+        },
+        {
+          "name": "علم صناعة تجريبي طولكرم",
+          "uri": "https://drive.google.com/file/d/1CvEJrHOjT5bI7LesVM0FcxGZQj9z-6ow/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2024",
+          "uri": "https://drive.google.com/file/d/1JK2YPm4LztK6CtJOJFF_Hh8ps17MRrhU/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2021",
+          "uri": "https://drive.google.com/file/d/1VTweKPlWHre4zlIs9nHNm3eL5oIyIr0I/view"
+        },
+        {
+          "name": "رسم صناعي تجريبي طولكرم",
+          "uri": "https://drive.google.com/file/d/1nxGHn7izr9r4uM6FnPtRw_gdHx88DTh_/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+          "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
+        }
+      ]
+    },
+    "energy": {
+      "exams": [
+        {
+          "name": "الدورة الأولى-علم الصناعة -2022",
+          "uri": "https://drive.google.com/file/d/1VNEiDKpU6jJkxWemfeb7Z_60o-twFFhF/view"
+        },
+        {
+          "name": "الدورة الثانية-علم الصناعة -2022",
+          "uri": "https://drive.google.com/file/d/1V9Mpf6fsQmAidKjjPLY4EYD4S_nnq82f/view"
+        },
+        {
+          "name": "الدورة الأولى-علم الصناعة -2023",
+          "uri": "https://drive.google.com/file/d/1x6swe8v3E19Ha-oKa3UE-BXdzOv7Riak/view"
+        },
+        {
+          "name": "الدورة الثانية-علم الصناعة -2023",
+          "uri": "https://drive.google.com/file/d/1-SiUGtinWNqWQLdE0KMrZ8CuKNfGRfTJ/view"
+        },
+        {
+          "name": "الدورة الاولى2022-رسم",
+          "uri": "https://drive.google.com/file/d/1Y00hoCJQIucMKbRmtVFlrJB91bCDRhFX/view"
+        },
+        {
+          "name": "الدورة الثانية2022-رسم",
+          "uri": "https://drive.google.com/file/d/1lejzA9zz7RoEJfDepr1HkyRrnXfsAr4C/view"
+        },
+        {
+          "name": "الدورة الاولى2023-رسم",
+          "uri": "https://drive.google.com/file/d/12XYofw7ch21HV0DZ-3j2yy5Cl31ikXod/view"
+        },
+        {
+          "name": "الدورة الثانية 2023-رسم",
+          "uri": "https://drive.google.com/file/d/1x3v7glDGCoroo6czTMH4-jCVmT1yLQ-Q/view"
+        },
+        {
+          "name": "الدورة الاولى2024-رسم",
+          "uri": "https://drive.google.com/file/d/1hswcrzwzBUEaGYAiDrhq5xZoUNDuh2x6/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب الطاقة المتجددة",
+          "uri": "https://drive.google.com/file/d/1c5gkT1iFcq0xqV8E5rNqDuJTo0bhkrCB/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+          "uri": "https://drive.google.com/file/d/1XYzZt_Ptgb3v6qB0wpblJilvwSPJKuBO/view"
+        }
+      ]
+    },
+    "use_electricity": {
+      "exams": [
+        {
+          "name": "علم صناعة وزاري 2020",
+          "uri": "https://drive.google.com/file/d/1IUjLSkI-NoVHll6eMgC-1QlNuwC1SJGs/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2020 دورة ثانية",
+          "uri": "https://drive.google.com/file/d/1PBmx3qRODSIqmGEEEPFw-MWOisN6A3n0/view"
+        },
+        {
+          "name": "علم صناعة تجريبي سلفيت",
+          "uri": "https://drive.google.com/file/d/1QaguhDewlZbUo4FB0PQELiBM8P_sVw69/view"
+        },
+        {
+          "name": "علم صناعة شهرين مع الاجابات",
+          "uri": "https://drive.google.com/file/d/18PSFi8oPOqO8JG7cIEcfjV8bf61KTSkw/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2022 دورة ثانية",
+          "uri": "https://drive.google.com/file/d/1TxtYMXFu15qhk3YkvWwEJl04IuMMQUZm/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2023",
+          "uri": "https://drive.google.com/file/d/1UTC3OAz8VPNlApTIBJEnyMOVcY5EJxW4/view"
+        },
+        {
+          "name": "رسم صناعي شهرين",
+          "uri": "https://drive.google.com/file/d/1nI6rEixpodL4D67bCZlNzyETswPzT6Ys/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب كهرباء استعمال",
+          "uri": "https://drive.google.com/file/d/1xmAwW3q1Nb5McpW1NhB2WcERM8oVy7lj/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+          "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
+        },
+        {
+          "name": "حلول كتاب كهرباء استعمال",
+          "uri": "https://drive.google.com/file/d/11boCV25pNObATI0IYPP2vDewxdTAXU51/view"
+        },
+        {
+          "name": "اسئلة على الوحدة الاولى في علم الصناعة",
+          "uri": "https://drive.google.com/file/d/1nN8w2Wh0hsBsZo4ZXf4-jx3TU6VtpTmB/view"
+        },
+        {
+          "name": "اسئلة على الوحدة الثانية في علم الصناعة",
+          "uri": "https://drive.google.com/file/d/1_n9bo2ZNLHVcOkOrwvQlD2OvVpO3OWum/view"
+        }
+      ]
+    },
+    "cars_electricity": {
+      "exams": [
+        {
+          "name": "علم صناعة تجريبي قلقيلية",
+          "uri": "https://drive.google.com/file/d/1g0DqjUYrA6vzWCE6-Z3dzJ7bRrYOHMTu/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2022",
+          "uri": "https://drive.google.com/file/d/1-32DYLCh8ljgvOc6b7Mi_ab4JGgyPqMK/view"
+        },
+        {
+          "name": "علم صناعة وزاري مع الاجابات 2020",
+          "uri": "https://drive.google.com/file/d/1ncVeaYKxh0aNcBNLCSg697sZda-_RiSY/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2019",
+          "uri": "https://drive.google.com/file/d/1D1-S58snwdo904uFm11riBBX2EM4vRLr/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2019",
+          "uri": "https://drive.google.com/file/d/1ia_Ua_UihHLSze_EYczzWAoqekGm2dUh/view"
+        },
+        {
+          "name": "رسم صناعي تجريبي قلقيلية",
+          "uri": "https://drive.google.com/file/d/1mbhGHmt8smMpjyZisV6hxXUbb7i5lNJL/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2021",
+          "uri": "https://drive.google.com/file/d/1SgH3R4j7YYiRvbjQuntSUCp_A9rdmWFk/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2020",
+          "uri": "https://drive.google.com/file/d/11oZqZlalvWQmXK4Yu05_LB-WICcVTe22/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب كهرباء سيارات",
+          "uri": "https://drive.google.com/file/d/1xmAwW3q1Nb5McpW1NhB2WcERM8oVy7lj/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+          "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
+        },
+        {
+          "name": "حلول كتاب كهرباء سيارات",
+          "uri": "https://drive.google.com/file/d/11boCV25pNObATI0IYPP2vDewxdTAXU51/view"
+        }
+      ]
+    },
+    "smart_homes": {
+      "exams": [
+        {
+          "name": "علم صناعة وزاري 2019",
+          "uri": "https://drive.google.com/file/d/1rux3Bvt9pRLZHC_dS-nSOV2fugZY6XDz/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2020",
+          "uri": "https://drive.google.com/file/d/1dikDArckyDYEHXvcYZPA8qSAVHYS4tXk/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2021 الدورة الأولى",
+          "uri": "https://drive.google.com/file/d/1r0FsHkS8PleW7oIw12unEqhBZ21KHZgV/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2021 الدورة الثانية",
+          "uri": "https://drive.google.com/file/d/1bf2uhgjtoIpxIyrkGrIgSvNl5Vq4SUwp/view"
+        },
+        {
+          "name": "رسم صناعي تجريبي جنوب الخليل",
+          "uri": "https://drive.google.com/file/d/1G1m601zs0iCxgUf4AkIoEFcMqJHf8PsZ/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2021 الدورة الأولى",
+          "uri": "https://drive.google.com/file/d/1gYskZtMfBdwXExnZ0IL75QKENt7n9kBs/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2021 الدورة الثانية",
+          "uri": "https://drive.google.com/file/d/1CbRaNpdDNzZblDVjefSwvYG3nS55ZAS-/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب تكنولوجيا المباني الذكية",
+          "uri": "https://drive.google.com/file/d/11Ck0xPYXigmkpgiVrYUEUgkfOJ40Pkm5/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الكهرباء",
+          "uri": "https://drive.google.com/file/d/1tPgAZp8speKWpoG6FmmgZvtDU3afu6Qe/view"
+        },
+        {
+          "name": "حلول كتاب تكنولوجيا المباني الذكية",
+          "uri": "https://drive.google.com/file/d/1tyGqM2kz8VNLdq9KZoiqov9H5BX6-UDS/view"
+        },
+        {
+          "name": "كتيب نظام الحريث تليفير",
+          "uri": "https://drive.google.com/file/d/1fITURsH37bkW2bmZQdSnHEGs1qI5K-MK/view"
+        },
+        {
+          "name": "تجربة وسائط النقل",
+          "uri": "https://drive.google.com/file/d/1R_DDFEsh8a3Ab9kowp_ejZWMm3GEZal3/view"
+        },
+        {
+          "name": "إجابات أسئلة الوحدة الأولى",
+          "uri": "https://drive.google.com/file/d/1O07RqYIhiZlAXhXdDA03qUjkTFYb7kkJ/view"
+        }
+      ]
+    },
+    "mechanics": {
+      "exams": [
+        {
+          "name": "علم صناعة وزاري 2019",
+          "uri": "https://drive.google.com/file/d/1Gg9-o4QIVZLNMGMM2vE-GO1ICkLokZe3/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2020",
+          "uri": "https://drive.google.com/file/d/1EnxM_92XeuS44-zUG3iLxmETBri7WqCZ/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2021",
+          "uri": "https://drive.google.com/file/d/1q-O0cR_zRGOQW5r9MECEmBLDuS-wOv5u/view"
+        },
+        {
+          "name": "علم صناعة تجريبي",
+          "uri": "https://drive.google.com/file/d/1Vcv1NiH1oxuBvpX-786i4vrN4l4kGg8B/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2019 الدورة الأولى",
+          "uri": "https://drive.google.com/file/d/1NojbsyKEiRLSAzvAvxlYC0yQ8aKxbzwS/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2019 الدورة الثانية",
+          "uri": "https://drive.google.com/file/d/149xdgIvYWHcpFgxWTSF87UT_YqFY3d9Z/view"
+        },
+        {
+          "name": "رسم صناعي تجريبي طولكرم 2020",
+          "uri": "https://drive.google.com/file/d/1ujXS0oN6U_cAM2yCaW-a4JPx39BiSU9q/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2021 مع الإجابات",
+          "uri": "https://drive.google.com/file/d/13HLROTpUlcTI0dv91ppRhvx9KrD47RAm/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2022",
+          "uri": "https://drive.google.com/file/d/16kuIruLCCz-9IwzDaC8wTaqhkXb-x4ke/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب ميكانيك السيارات",
+          "uri": "https://drive.google.com/file/d/1PsE0GcmQ7qwiQZKIOmjqfVdNGnn8RdiW/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+          "uri": "https://drive.google.com/file/d/1bfdyzJJxO7PEB6z86riXoBvi2X7ldrSG/view"
+        },
+        {
+          "name": "حلول كتاب ميكانيك السيارات",
+          "uri": "https://drive.google.com/file/d/1XWNMqW7ngPle7EvJCgBmjMqE56zp3bXq/view"
+        }
+      ]
+    },
+    "carpentry": {
+      "exams": [
+        {
+          "name": "علم صناعة وزاري 2019",
+          "uri": "https://drive.google.com/file/d/1eym9g-tOXzz77FLyK48gro2LJrGgZLy-/view"
+        },
+        {
+          "name": "علم صناعة وزاري 2021",
+          "uri": "https://drive.google.com/file/d/1KbLIjWfJvi9VKef-kq5eE-sY0lQDnqXx/view"
+        },
+        {
+          "name": "علم صناعة تجريبي طواكرم",
+          "uri": "https://drive.google.com/file/d/16OV6y2ughQWvRGdrJ_6IlMIM_uRRoD8i/view"
+        },
+        {
+          "name": "علم صناعة تجريبي رام الله والبيرة",
+          "uri": "https://drive.google.com/file/d/1wEaBHHcnyPxYZQAg7q3brekRiPHY9ene/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2019",
+          "uri": "https://drive.google.com/file/d/1YriXPJkseRVe3w_x9nSA_6ywmamBK1Qg/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2020",
+          "uri": "https://drive.google.com/file/d/1NRNg_xn9IGLCnPbljwfLMKf5s62CYy8q/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2021 مع الإجابات",
+          "uri": "https://drive.google.com/file/d/12rB-wS26hiCua6gdAoqGdezC_5siLi9h/view"
+        },
+        {
+          "name": "رسم صناعي وزاري 2022",
+          "uri": "https://drive.google.com/file/d/14XaWVdh6kS0_sla9sQEbDel7M4orMGxW/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب النجارة",
+          "uri": "https://drive.google.com/file/d/1ZgweIWNBTxRcGkGp2CcpAU5GoytwpUSn/view"
+        },
+        {
+          "name": "حلول كتاب النجارة",
+          "uri": "https://drive.google.com/file/d/14vLLAtc4d3KEDFvvg7StlK7rcrnqviSE/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة النجارة والتنجيد",
+          "uri": "https://drive.google.com/file/d/1jy3w5fYYeKPaJ2-37ZLEXoF1cXQAxYue/view"
+        }
+      ]
+    },
+    "electronics": {
+      "exams": [
+        {
+          "name": "علم صناعة الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/1juz0DrtT73BjJWCtjukBJIU_kVq1IfF5/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2022",
+          "uri": "https://drive.google.com/file/d/1QDtJAhFsj9MovE7sfS5DEaJmFm_VvFJs/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثالثة 2022",
+          "uri": "https://drive.google.com/file/d/1DUH7zWsCaUwCmcW5kIKaawpLSvMFoj0G/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2023",
+          "uri": "https://drive.google.com/file/d/1stZMBOHS3eeXcInXyuW5N10vdTTRN6-_/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2023",
+          "uri": "https://drive.google.com/file/d/1HHG_O1kR1IOzSrAciJzC2i4C_SFd2bAa/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/12LWaHwTIsVoZyl2Pggerptfyvj6yVSC-/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/1kxb6YqzAKFZXwOhsZR1SaWHZ-KMpYiDv/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/1_xQmyMXQcr9ef84XCaMsRAtbxn-3r4f6/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2022",
+          "uri": "https://drive.google.com/file/d/1u6QU6ObobyRFR5pgcbYfuCTPyznm98BO/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2023",
+          "uri": "https://drive.google.com/file/d/1wEAeQ7DqVTGClCIKlT8RHs_UHR7_Mxsh/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2023",
+          "uri": "https://drive.google.com/file/d/10hc2jrbSRy38dgAtotMS4lWFKTQSRH-s/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/10Lh3zm2bHrOLpTQXCxzAU6ewXS86h51K/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/1zZcdoq8dseooHIycbdwacTruNptBlDyi/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب الإلكترونيات الصناعية",
+          "uri": "https://drive.google.com/file/d/1iajCaetLY4HqHNYRuhbq2MrfkYNOoW5t/view"
+        },
+        {
+          "name": "حلول كتاب الإلكترونيات الصناعية",
+          "uri": "https://drive.google.com/file/d/1JR_kUc7qT90S28W8htK1VxLw9luEa1Rz/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+          "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
+        }
+      ]
+    },
+    "apps": {
+      "exams": [
+        {
+          "name": "علم صناعة الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/1lCfeba8AFuTODCX6rmkxJSvqZQrv9w9h/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2023",
+          "uri": "https://drive.google.com/file/d/1dGHWHbiiIy5L8djbTrLf_mNnkcOzCUB-/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/10tdQoLpoyKNoUHAsf7jZZ-RmLG_uztrH/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/1LTR6jtMZmf83kv80BT-EoVlPWSoCQATW/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/1Y0McGB6TdsypoLtYHiGHt0qIi6tALRkI/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/1RBHIY-NKXgHEQeCa4NFZlQPt1am6fkfT/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/1FdNfnC9Ws4J1BfcGQIFskvqJC9_KwQSW/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب تطبيقات الهواتف الذكية",
+          "uri": "https://drive.google.com/file/d/1jX85SkRi_xxE6WuBFKJpMBRB7ydTY-Gn/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+          "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
+        }
+      ]
+    },
+    "refrigeration": {
+      "exams": [
+        {
+          "name": "علم صناعة الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/1YLki1XmR4DlyeursbAtv111SZZ_WyhZz/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2022",
+          "uri": "https://drive.google.com/file/d/1jkIuzNM3kdizXxb78Dd4v4IkhWf13VRR/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2023",
+          "uri": "https://drive.google.com/file/d/1D2W--CDcPpSVo97-s1P2Ut9-fK8FQy_2/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2023",
+          "uri": "https://drive.google.com/file/d/1xEzlivYT9JJp4F8KXJ7CGU1GyWlBySWv/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/15WzyJ8NTFZbYx5dkXcULzc87ttnurGKY/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/1vn_rNHaoJftFB_CP5H629ki59J-7Mzes/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/1b7Q41i9kZ5T3xKAOkOno8XiPWLCLjk9C/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2022",
+          "uri": "https://drive.google.com/file/d/1ZIDdyqOMP0KO89KBSM69YjM760yZY4FT/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2023",
+          "uri": "https://drive.google.com/file/d/1wQAvKTQht9nLwjHJ4S94iO2UOtiB8RWV/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2023",
+          "uri": "https://drive.google.com/file/d/19qX3FFpIBs82a8416SlfABaamxJ9hzAb/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/1fve2fBuleSJIYRTxt8iRrkytKfjeyzfO/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/1N7YSfY11kcIiReqOpRjQnaTDfIwOlpC1/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب الرسم الصناعي عائلة الميكانيك",
+          "uri": "https://drive.google.com/file/d/1VQBNC7dgF3AFwVMsaOWUaQvGH0YDdpoy/view"
+        }
+      ]
+    },
+    "computer": {
+      "exams": [
+        {
+          "name": "علم صناعة الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/11n-p2jM2eF5LEzpKxUbPJr7Ac5gnu-kh/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2022",
+          "uri": "https://drive.google.com/file/d/1JHrnDeYA7yYXzeWWjITXYLFkxELYZaHX/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثالثة 2022",
+          "uri": "https://drive.google.com/file/d/1hCl_RQZb9bFeFMB82-5y-3X80xo1NWrf/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2023",
+          "uri": "https://drive.google.com/file/d/1waFgs-eRNmxkIKZ1ysZpA-jDXttmELSt/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2023",
+          "uri": "https://drive.google.com/file/d/1AnvLSPHsv0mfyhXwu7_QclTrczgEeG8y/view"
+        },
+        {
+          "name": "علم صناعة الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/16t4L7BQqnPeopTDrQLQMtT20g1rL9nzE/view"
+        },
+        {
+          "name": "علم صناعة الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/1MilXej4dBXAjL4vDEOPFfuAzAZcflGmB/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2022",
+          "uri": "https://drive.google.com/file/d/11p6bLAFumB__Gm2VFAFZi5LtG3i7kRn3/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2022",
+          "uri": "https://drive.google.com/file/d/1K6XN7KrpMTwu4HV06qDe05FXVSauOwUn/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2023",
+          "uri": "https://drive.google.com/file/d/1tYqPhIuS6WP5kNiTolNEnGZuBE0FuC4z/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2023",
+          "uri": "https://drive.google.com/file/d/1ID_Bpw5ywrlFJh3bi_lucbD8P0PiSsI_/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الأولى 2024",
+          "uri": "https://drive.google.com/file/d/126tytdfRiLdxfJiJgjcfHf2zZAfTn8zE/view"
+        },
+        {
+          "name": "رسم صناعي الدورة الثانية 2024",
+          "uri": "https://drive.google.com/file/d/19g6VOkf3bTak_SAZmKg1kCtrNDAfX4gK/view"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "كتاب صيانة أجهزة الحاسوب",
+          "uri": "https://drive.google.com/file/d/11_Yzhr1KjyH5iTkJnJznQ35fKdcpYoXJ/view"
+        },
+        {
+          "name": "كتاب الرسم الصناعي عائلة الإلكترونيات",
+          "uri": "https://drive.google.com/file/d/10u3ArDDj9Gsgj_yOe58rJpXLQEEZwaTP/view"
+        }
+      ]
     }
+  }
 }
